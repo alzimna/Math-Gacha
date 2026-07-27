@@ -1,0 +1,119 @@
+/* ---------- gacha reel ---------- */
+
+:root {
+  --park-height : 100px;
+  --outer-box-multiplier : 5;
+  --center-line-multiplier : 2;
+}
+
+.reel-wrap{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  position:relative;
+  top : 0;
+  background:var(--paper-bg);
+  height : calc(var(--outer-box-multiplier) * var(--park-height));
+  border-radius:var(--lg);
+  padding: 0 2.5rem;
+  overflow:hidden;
+  width: 100%;
+}
+
+/* Daerah untuk hasil drawn */
+
+.reel-center-line{
+  display: flex;
+  position:absolute;
+  border-top:1px solid var(--card-border);
+  border-bottom:1px solid var(--card-border);
+  top : calc(var(--center-line-multiplier) * var(--park-height) - 2px);
+  align-items: center;
+  justify-content: center;
+  width: 92%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  pointer-events:none;
+  z-index:2;
+  flex-shrink: 0;
+  height:var(--park-height);
+}
+
+
+@media (min-width: 768px) {
+    .reel-wrap {
+        padding: --x2l;              /* md:p-10 = 40px */
+    }
+}
+
+.reel-fade-top, .reel-fade-bottom{
+  position:absolute; left:0; right:0; height:var(--park-height); z-index:3; pointer-events:none;
+}
+
+.reel-fade-top{ top:0; background:linear-gradient(to bottom, var(--paper-bg) 0%, var(--paper-bg) 25%, transparent 100%); }
+.reel-fade-bottom{ bottom:0; background:linear-gradient(to top, var(--paper-bg) 0%, var(--paper-bg) 25%, transparent); }
+
+.reel-track{
+  display:flex;
+  flex-direction:column;
+  position: absolute;
+  z-index: 2;
+}
+
+.reel-track.spinning {
+  opacity: 0.25;
+}
+
+.reel-item {
+    display:flex;
+    width:100%;
+    height: var(--park-height);
+    align-items:center;
+    justify-content:center;
+    text-align: center;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    transform-origin: center center;
+    font-family:var(--font-primary);
+    font-weight:800;
+    color:var(--text-secondary);
+    font-size:28px;
+}
+
+.reel-item {
+  transition: opacity 0.3s ease;
+}
+
+.reel-item.is-target{
+  opacity: 0;
+  color:var(--card-text-color); 
+}
+
+
+.drawn-id {
+    display: flex;
+    flex-direction: column;
+    position:absolute;
+    top : calc(var(--center-line-multiplier) * var(--park-height)+100px);
+    align-items: center;
+    justify-content: center;
+    left:0; right:0;
+    text-align: center;
+    z-index: 4;
+    opacity: 1;
+    transform: translateY(-10px);
+}
+
+/* Your destinied problem */
+.drawn-id .eyebrow{ 
+  text-align:center; 
+}
+
+/* Hasil Gatcha */
+.drawn-id .value{
+  font-family:var(--font-primary);
+  font-weight:800;
+  font-size:28px;
+  color:var(--card-text-color);
+  text-align: center;
+}

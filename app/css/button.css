@@ -1,0 +1,118 @@
+/* ---------- buttons ---------- */
+.btn{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap:8px;
+
+    font-family:var(--font-primary);
+    font-size:14px;
+    font-weight:600;
+    letter-spacing:0.05em;
+
+    padding:var(--md) var(--lg);
+    border-radius:var(--r-base);
+    border:none;
+    cursor:pointer;
+
+    width:100%;
+    margin-top:var(--lg);
+    transition:transform .12s ease, opacity .12s ease;
+    box-shadow: 0 8px 20px rgba(74,63,55,.2);
+}
+
+
+.btn:active{ transform:scale(0.98); }
+.btn:disabled{ opacity:.4; cursor:not-allowed; }
+
+.btn-primary{
+    background:transparent; 
+    color:var(--text-primary);
+}
+
+.btn-primary:active {
+    transform: translateY(0) scale(0.98);
+}
+
+.btn-secondary{ background:transparent; 
+                color:var(--primary); 
+                border:1px solid var(--card-border); }
+
+.btn-success{
+    background: var(--success);
+    color:var(--paper-bg); 
+}
+
+.btn-success:hover {
+    background: var(--success-hover);
+    transform: translateY(-2px) scale(1.03);
+}
+
+.btn-danger{
+    background: var(--danger);
+    color:var(--paper-bg);
+}
+
+.btn-danger:hover {
+    background: var(--danger-hover);
+    transform: translateY(-2px) scale(1.03);
+}
+
+
+.btn-primary:hover, .btn-secondary:hover{
+    background: transparent;
+    transform: translateY(-2px) scale(1.03);
+}
+
+.btn-warn{ background:var(--error); color:#ffffff; }
+
+.hint{
+    text-align:center; font-size:12px; color:var(--on-surface-variant); margin-top:var(--sm);
+}
+
+/* Shape */
+.btn-primary.btn-pill,
+.btn-secondary.btn-pill,
+.btn-danger.btn-pill,
+.btn-success.btn-pill {
+    padding: 12px 32px;
+    border-radius: 9999px;
+    text-align: center;
+    width: fit-content;
+    white-space: nowrap;
+}
+
+.btn-primary.btn-rounded,
+.btn-secondary.btn-rounded,
+.btn-danger.btn-rounded,
+.btn-success.btn-rounded {
+    padding: 12px 32px;
+    border-radius: 12px;
+}
+
+.btn-primary.btn-circle,
+.btn-secondary.btn-circle,
+.btn-danger.btn-circle,
+.btn-success.btn-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding: 20px;
+    text-align: center;
+    white-space: normal;
+}
+
+.btn-placeholder {
+    display: flex;
+    flex-direction: column;      /* flex-col */
+    align-items: center;         /* items-center */
+    justify-content: center;     /* justify-center */
+    gap: 12px;                   /* gap-3 */
+    margin-top: 24px;            /* mt-6 */
+}
+
+@media (min-width: 640px) {
+    .btn-placeholder {
+        flex-direction: row;     /* sm:flex-row */
+    }
+}

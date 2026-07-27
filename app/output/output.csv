@@ -1,0 +1,664 @@
+,Competition,Stage,Year,Number,Problem Statement,ID,Figure,Answer
+0,OSN,Regional,2011,1,Ada berapa faktor positif dari $2^7 3^5 5^3 7^2$ yang merupakan kelipatan 10 ?,OSN_Regional_2011_1,,378
+1,OSN,Regional,2011,2,"Bilangan asli terkecil lebih dari 2011 yang bersisa 1 jika dibagi 2,3,4,5,6,7,8,9,10 adalah $\dots$",OSN_Regional_2011_2,,2521
+2,OSN,Regional,2011,3,Bilangan bulat positif terkecil $a$ sehingga $2a + 4a + 6a + \cdots + 200a$ merupakan kuadrat sempurna adalah $\dots$,OSN_Regional_2011_3,,101
+3,OSN,Regional,2011,4,"Untuk bilangan asli $n$, $p(n)$ dan $s(n)$ berturut–turut menyatakan hasil kali dan jumlah angka pembentuk $n$. Jika $n$ bilangan dua angka dan $n + p(n) + s(n) = 69$, maka $n$ adalah $\dots$",OSN_Regional_2011_4,,52
+4,OSN,Regional,2011,5,Jumlah digit dari $(111.111.111)^2$ adalah $\dots$,OSN_Regional_2011_5,,81
+5,OSN,Regional,2011,6,"Dua buah dadu dilempar bersama–sama. Sisi dadu pertama diberi angka 1,2,2,3,3,4. Sisi dadu kedua diberi angka $1$ ,$3$ ,$4$, $5$, $6$, dan $8$. Peluang agar jumlah kedua sisi atas sama dengan $5$, $7$, atau $9$ adalah $\dots$",OSN_Regional_2011_6,,$\frac{14}{36}$
+6,OSN,Regional,2011,7,"Keliling suatu segitiga adalah 5 dan jumlah kuadrat sisi–sisinya adalah 17. Jika jari–jari lingkaran luar segitiga itu adalah 2, maka jumlah ketiga tinggi segitiga itu adalah $\dots$",OSN_Regional_2011_7,,1
+7,OSN,Regional,2011,8,"Jika bilangan $m$ dibagi 5 memberikan sisa 3, dan bilangan $n$ dibagi 5 memberikan sisa 2. Maka bilangan $mn$ bila dibagi 5 akan memberikan sisa $\dots$",OSN_Regional_2011_8,,1
+8,OSN,Regional,2011,9,"Nilai dari
+\[
+\frac{(2^{2010})^2 - (2^{2008})^2}{(2^{2011})^2 - (2^{2009})^2}
+\]
+adalah $\dots$",OSN_Regional_2011_9,,$\frac{1}{4}$
+9,OSN,Regional,2011,10,Diketahui sebuah bulan dengan jumlah hari 31 memiliki jumlah hari Selasa dan Kamis yang sama banyaknya. Maka hari yang mungkin sebagai hari awal pada bulan tersebut adalah $\dots$,OSN_Regional_2011_10,,"Selasa, Jumat, dan Sabtu"
+10,OSN,Regional,2011,11,"Diberikan segitiga $ABC$, melalui $AB$ sebagai diameter dibuat lingkaran. Lingkaran tersebut memotong $AC$ dan $BC$ berturut–turut di titik $D$ dan $E$. Jika $AD = \frac13 AC$, $BE = \frac14 BC$ dan $AB = 30$, maka luas segitiga ABC adalah $\dots$",OSN_Regional_2011_11,,540
+11,OSN,Regional,2011,12,Jika $n = 2011^2 + 2^{2011}$ maka digit satuan dari $n^2$ adalah $\dots$,OSN_Regional_2011_12,,1
+12,OSN,Regional,2011,13,"Tentukan nilai dari $3x^2 y^2$ jika $x$ dan $y$ adalah bilangan bulat yang memenuhi persamaan
+\[
+y^2 + 3x^2 y^2 = 30x^2 + 517
+\]",OSN_Regional_2011_13,,588
+13,OSN,Regional,2011,14,Setiap sekolah di kota A mengirimkan masing–masing 3 murid untuk mengikuti lomba matematika. Setiap peserta memperoleh nilai yang berbeda. Nilai Ali merupakan median dari nilai semua peserta dan merupakan nilai tertinggi dari teman satu sekolahnya yaitu Budi dan Charli. Jika Budi memperoleh peringkat 37 dan Charli peringkat 64 maka banyaknya sekolah di kota A adalah $\dots$,OSN_Regional_2011_14,,23
+14,OSN,Regional,2011,15,"Misalkan $f$ suatu fungsi yang memenuhi
+\[
+f(xy) = \frac{f(x)}{y}
+\]
+untuk semua bilangan real positif $x$ dan $y$. Jika $f(100) = 3$ maka $f(10)$ adalah $\dots$",OSN_Regional_2011_15,,30
+15,OSN,Regional,2011,16,Koefisien $x^4$ dalam penjabaran $(1 + 2x + 3x^2)^{10}$ adalah $\dots$,OSN_Regional_2011_16,,8085
+16,OSN,Regional,2011,17,"Diketahui segi empat konveks $ABCD$. Titik–titik $P,Q,R,S$ berturut–turut pada sisi $AB, BC, CD, DA$. Tentukan nilai $k$ sedemikian sehingga
+\[
+\frac{AP}{PB} = \frac{BQ}{QC} = \frac{CR}{RD} = \frac{DS}{SA} = k < 1
+\]
+dan luas dari $PQRS = 52\%$ dari luas $ABCD$.",OSN_Regional_2011_17,,$\frac{2}{3}$
+17,OSN,Regional,2011,18,"Sekelompok orang akan berjabat tangan. Setiap orang hanya dapat melakukan jabat tangan sekali. Tidak boleh berjabat tangan dengan dirinya sendiri. Jika dalam suatu kelompok terjadi 190 jabat tangan, maka banyaknya orang dalam kelompok tersebut adalah $\dots$",OSN_Regional_2011_18,,20
+18,OSN,Regional,2011,19,"Diketahui segitiga $ABC$, titik $D$ dan $E$ berturut–turut pada sisi $AB$ dan $AC$, dengan panjang $AD = \frac12 BD$ dan $AE = \frac12 CE$. Garis $BE$ dan $CD$ berpotongan di titik $F$. Diketahui luas segitiga $ABC$ adalah $90$ cm$^2$. Luas segiempat $ADFE$ adalah $\dots$",OSN_Regional_2011_19,,15
+19,OSN,Regional,2011,20,"Ani mempunyai sangat banyak dadu dengan ukuran $3 \times 3 \times 3$ cm$^3$. Jika ia memasukkan dadu–dadu tersebut ke dalam sebuah kardus dengan ukuran $50 \times 40 \times 35$ cm$^3$, maka berapa banyak dadu yang bisa masuk ke dalam kardus tersebut?",OSN_Regional_2011_20,,2288
+20,OSN,Regional,2012,1,"Banyaknya bilangan bulat $n$ yang memenuhi
+$$(n-1)(n-3)(n-5)\cdots(n-2013) = n(n+2)(n+4)\cdots(n+2012)$$
+adalah $\dots$",OSN_Regional_2012_1,,0
+21,OSN,Regional,2012,2,Banyaknya pasangan bilangan asli berbeda yang selisih kuadratnya 2012 adalah $\dots$,OSN_Regional_2012_2,,1
+22,OSN,Regional,2012,3,"Bilangan asli terbesar $x$ kurang dari 1000 sehingga terdapat tepat dua bilangan asli sehingga
+\[
+\frac{n^2 + x}{n+1}
+\]
+merupakan bilangan asli adalah $\dots$",OSN_Regional_2012_3,,960
+23,OSN,Regional,2012,4,"Diketahui suatu kelas terdiri dari 15 siswa. Semua siswa tersebut akan dikelompokkan menjadi 4 kelompok yang terdiri dari 4, 4, 4, dan 3 siswa. Ada berapa cara pengelompokan tersebut?",OSN_Regional_2012_4,,$\frac{\binom{15}{4} \binom{11}{4} \binom{7}{4} \binom{3}{3}}{3!}$
+24,OSN,Regional,2012,5,"Diberikan segitiga siku–siku $ABC$, dengan $AB$ sebagai sisi miringnya. Jika keliling dan luasnya berturut–turut 624 dan 6864. Panjang sisi miring segitiga tersebut adalah $\dots$",OSN_Regional_2012_5,,290
+25,OSN,Regional,2012,6,"Banyaknya tripel bilangan bulat $(x,y,z)$ yang memenuhi
+\[
+x^2 + y^2 + z^2 - xy - yz - zx = x^3 + y^3 + z^3
+\]
+adalah $\dots$",OSN_Regional_2012_6,,tak hingga
+26,OSN,Regional,2012,7,"Diberikan suatu lingkaran dengan diameter $AB = 30$. Melalui $A$ dan $B$ berturut–turut ditarik tali busur $AD$ dan $BE$. Perpanjangan $AD$ dan $BE$ berpotongan di titik $C$. Jika
+$AC = 3AD$ dan $BC = 4BE$, maka luas segitiga $ABC$ adalah $\dots$",OSN_Regional_2012_7,,540
+27,OSN,Regional,2012,8,"Misalkan $a,b,c,d,e$ adalah bilangan bulat sehingga $2^a 3^b 4^c 5^d 6^e$ juga merupakan bilangan bulat. Jika diketahui bahwa nilai mutlak dari $a,b,c,d,e$ tidak lebih dari 2012, maka nilai terkecil yang mungkin dari $a+b+c+d+e$ adalah $\dots$",OSN_Regional_2012_8,,$-2012$
+28,OSN,Regional,2012,9,"Jika
+\[
+\left(\sqrt{2012} + \sqrt{2011}\right)^2 = n + r
+\]
+dengan $n$ merupakan bilangan asli dan $0 \le r < 1$, maka nilai $r$ adalah $\dots$",OSN_Regional_2012_9,,$1-(\sqrt{2012}-\sqrt{2011})^2$
+29,OSN,Regional,2012,10,"Tentukan semua nilai $b$ sehingga untuk semua $x$ paling tidak salah satu dari
+$f(x)=x^2 + 2012x + b$ atau $g(x)=x^2 - 2012x + b$ positif.",OSN_Regional_2012_10,,$b>0$
+30,OSN,Regional,2012,11,Jumlah semua bilangan bulat $x$ sehingga $2^{\log(x^2 - 4x - 1)}$ merupakan bilangan bulat adalah $\dots$,OSN_Regional_2012_11,,4
+31,OSN,Regional,2012,12,Ada berapa faktor positif dari $2^7 3^5 5^3 7^2$ yang merupakan kelipatan 6 ?,OSN_Regional_2012_12,,420
+32,OSN,Regional,2012,13,Suatu set soal terdiri dari 10 soal pilihan B atau S dan 15 soal pilihan ganda dengan 4 pilihan. Seorang siswa menjawab semua soal dengan menebak jawaban secara acak. Tentukan probabilitas ia menjawab dengan benar hanya 2 soal ?,OSN_Regional_2012_13,,$45 \cdot \left( \frac{1}{2}\right)^{10} \cdot \left( \frac{3}{4}\right)^{15} + 150 \cdot \left( \frac{1}{2}\right)^{10} \cdot \left( \frac{3}{4}\right)^{14} + 105 \cdot \left( \frac{1}{2}\right)^{10} \cdot \left( \frac{3}{4}\right)^{13} \cdot \left( \frac{1}{4}\right)^{2}$
+33,OSN,Regional,2012,14,"Diberikan segitiga ABC dengan keliling 3, dan jumlah kuadrat sisi–sisinya sama dengan 5. Jika jari–jari lingkaran luarnya sama dengan 1, maka jumlah ketiga garis tinggi dari segitiga ABC tersebut adalah $\dots$",OSN_Regional_2012_14,,1
+34,OSN,Regional,2012,15,"Jika hasil kali tiga bilangan ganjil berurutan sama dengan 7 kali jumlah ketiga bilangan itu, maka jumlah kuadrat ketiga bilangan itu adalah $\dots$",OSN_Regional_2012_15,,83
+35,OSN,Regional,2012,16,"Diketahui segitiga $ABC$ sama kaki dengan panjang $AB = AC = 3$, $BC = 2$, titik $D$ pada sisi $AC$ dengan panjang $AD = 1$. Tentukan luas segitiga $ABD$.",OSN_Regional_2012_16,,$\frac{2\sqrt{2}}{3}$
+36,OSN,Regional,2012,17,Suatu dadu dilempar enam kali. Tentukan probabilitas jumlah mata yang muncul 27.,OSN_Regional_2012_17,,$\frac{1666}{6^6}$
+37,OSN,Regional,2012,18,"Diberikan segitiga $ABC$ dengan sisi–sisi: $AB = x + 1$, $BC = 4x - 2$, dan $CA = 7 - x$. Tentukan nilai dari $x$ sehingga segitiga $ABC$ merupakan segitiga sama kaki.",OSN_Regional_2012_18,,$\frac{9}{5}$
+38,OSN,Regional,2012,19,"Misalkan terdapat 5 kartu dimana setiap kartu diberi nomor yang berbeda yaitu 2, 3, 4, 5, dan 6. Kartu–kartu tersebut kemudian dijajarkan dari kiri ke kanan secara acak sehingga berbentuk barisan. Berapa probabilitas bahwa banyaknya kartu yang dijajarkan dari kiri ke kanan dan ditempatkan pada tempat ke–$i$ akan lebih besar atau sama dengan $i$ untuk setiap $i$ dengan $1 \le i \le 5$?",OSN_Regional_2012_19,,$\frac{2}{15}$
+39,OSN,Regional,2012,20,$N$ lingkaran digambar pada sebuah bidang datar sedemikian sehingga terdapat enam titik dimana keenam titik tersebut terdapat pada paling sedikit tiga lingkaran. Berapa $N$ terkecil yang memenuhi kondisi tersebut?,OSN_Regional_2012_20,,5
+40,OSN,Regional,2013,1,"Misalkan $a$ dan $b$ bilangan asli dengan $a > b$. Jika $\sqrt{94 + 2\sqrt{2013}} = \sqrt{a} + \sqrt{b}$, maka nilai $a - b$ adalah $\dots$",OSN_Regional_2013_1,,28
+41,OSN,Regional,2013,2,"Diberikan segitiga $ABC$ dengan luas 10. Titik $D$, $E$, dan $F$ berturut-turut terletak pada sisi $AB$, $BC$, dan $CA$ dengan $AD=2$, $DB=3$. Jika segitiga $ABE$ dan segiempat $DBEF$ mempunyai luas yang sama, maka luasnya sama dengan $\dots$",OSN_Regional_2013_2,,6
+42,OSN,Regional,2013,3,"Misalkan $p$ dan $q$ bilangan prima. Jika diketahui persamaan $x^{2014} - px^{2013} + q = 0$ mempunyai akar-akar bilangan bulat, maka $p + q$ adalah $\dots$",OSN_Regional_2013_3,,5
+43,OSN,Regional,2013,4,"Jika fungsi $f$ didefinisikan oleh $f(x) = \frac{kx}{2x+3}, x \ne -\frac{3}{2}$ memenuhi $f(f(x)) = x$ untuk setiap bilangan real $x$, kecuali $x = -\frac32$, maka nilai $k$ adalah $\dots$",OSN_Regional_2013_4,,$-3$
+44,OSN,Regional,2013,5,Koefisien dari $x^{2013}$ pada ekspansi $(1+x)^{4016} + x(1+x)^{4015} + x^2(1+x)^{4014} + \dots + x^{2013}(1+x)^{2013}$ adalah $\dots$,OSN_Regional_2013_5,,$\binom{4017}{2004}$
+45,OSN,Regional,2013,6,"Jika $\frac{2}{x} - \frac{2}{y} = 1$ dan $y - x = 2$, maka $(x+y)^2 = \dots$",OSN_Regional_2013_6,,20
+46,OSN,Regional,2013,7,Suatu dadu ditos 6 kali. Banyak cara memperoleh jumlah mata yang muncul 28 dengan tepat satu dadu muncul mata 6 adalah $\dots$,OSN_Regional_2013_7,,210
+47,OSN,Regional,2013,8,"Misalkan $P$ adalah titik interior dalam segitiga $ABC$ sehingga $\angle PAB=10^\circ$, $\angle PBA=20^\circ$, $\angle PCA=30^\circ$, $\angle PAC=40^\circ$. Besar $\angle ABC$ adalah $\dots$",OSN_Regional_2013_8,,$80^{\circ}$
+48,OSN,Regional,2013,9,Sepuluh kartu bernomor 1–10 dimasukkan ke kotak. Sebuah kartu diambil dan sebuah dadu dilempar. Probabilitas hasil perkalian nilai kartu dan dadu adalah bilangan kuadrat adalah $\dots$,OSN_Regional_2013_9,,$\frac{11}{60}$
+49,OSN,Regional,2013,10,"Enam siswa duduk pada tiga meja bundar, masing-masing meja minimal satu siswa. Banyak cara melakukan hal tersebut adalah $\dots$",OSN_Regional_2013_10,,225
+50,OSN,Regional,2013,11,"Suatu partikel bergerak pada bidang Cartesius dari titik (0,0). Setiap langkah bergerak satu satuan arah sumbu $X$ positif dengan probabilitas 0.6 atau satu arah sumbu $Y$ positif dengan probabilitas 0.4. Setelah sepuluh langkah, probabilitas partikel tersebut sampai pada titik $(6,4)$ dengan melalui $(3,4)$ adalah $\dots$",OSN_Regional_2013_11,,$\frac{81648}{5^9}$
+51,OSN,Regional,2013,12,"Diberikan segitiga $ABC$, dengan $AB = 30$. Melalui $AB$ sebagai diameter, dibuat sebuah lingkaran yang memotong $AC$ dan $BC$ di $D$ dan $E$. Jika $AD = \frac{1}{3}$, $AC$ dan $BE = \frac{1}{4}BC$, luas segitiga $ABC$ adalah $\dots$",OSN_Regional_2013_12,,540
+52,OSN,Regional,2013,13,"Banyaknya nilai $\alpha$ dengan $0 < \alpha < 90^\circ$ yang memenuhi
+\[
+(1 + \cos \alpha)(1 + \cos 2\alpha)(1 + \cos 4\alpha) = \frac{1}{8}
+\]
+adalah $\dots$",OSN_Regional_2013_13,,3
+53,OSN,Regional,2013,14,"Diberikan segitiga lancip $ABC$ dengan $O$ sebagai pusat lingkaran luarnya. Misalkan $M$ dan $N$ berturut-turut pertengahan $OA$ dan $BC$. Jika $\angle ABC = 4\angle OMN$ dan $\angle ACB = 6\angle OMN$, besar $\angle OMN$ adalah $\dots$",OSN_Regional_2013_14,,$12^{\circ}$
+54,OSN,Regional,2013,15,Tentukan semua bilangan tiga digit yang memenuhi syarat bahwa bilangan tersebut sama dengan penjumlahan dari faktorial setiap digitnya.,OSN_Regional_2013_15,,145
+55,OSN,Regional,2013,16,"Diberikan himpunan
+\[
+S = \left\{ x \in \mathbb{Z} \mid \frac{x^2 - 2x + 7}{2x - 1} \in \mathbb{Z} \right\}.\]
+Banyaknya himpunan bagian dari S adalah $\dots$",OSN_Regional_2013_16,,$2^6$
+56,OSN,Regional,2013,17,"Untuk $x > 0$, $y > 0$, didefinisikan $f(x,y)$ adalah nilai terkecil di antara $x, \frac{y}{2}+\frac{2}{x}$, dan $\frac{1}{y}$. Nilai terbesar yang mungkin dicapai $f(x,y)$ adalah $\dots$",OSN_Regional_2013_17,,$\frac{\sqrt{10}}{2}$
+57,OSN,Regional,2013,18,"Nilai $k$ terkecil, sehingga jika sembarang 8 bilangan dipilih dari $\{1,\dots,30\}$ selalu terdapat 2 bilangan yang hasil kalinya bilangan kuadrat sempurna adalah $\dots$",OSN_Regional_2013_18,,20
+58,OSN,Regional,2013,19,"Diketahui $x_1, x_2$ adalah dua bilangan bulat berbeda yang merupakan akar dari $x^2 + px + q + 1 = 0$. Jika p dan $p^2 + q^2$ adalah bilangan prima, maka nilai terbesar yang mungkin dari $x_1^{2013} + x_2^{2013}$ adalah $\dots$",OSN_Regional_2013_19,,$-2^{2013}$
+59,OSN,Regional,2013,20,Misalkan $\lfloor x \rfloor$ menyatakan bilangan bulat terbesar yang lebih kecil atau sama dengan x dan $\lceil x \rceil$ bilangan bulat terkecil yang lebih besar atau sama dengan x. Tentukan semua x yang memenuhi $\lfloor x \rfloor + \lceil x \rceil = 5$.,OSN_Regional_2013_20,,$2<x<3$
+60,OSN,Regional,2014,1,"Garis berat $AD$ pada segitiga $ABC$ memotong garis berat $CF$ di titik $P$, serta perpanjangan $BP$ memotong $ABC$ di $E$. Jika diketahui segitiga $ABC$ lancip dan $AB = 6$, maka panjang $DE$ adalah $\dots$",OSN_Regional_2014_1,,3
+61,OSN,Regional,2014,2,"Diberikan tiga bilangan bulat positif berurutan. Jika bilangan pertama tetap, bilangan kedua ditambah 10 dan bilangan ketiga ditambah bilangan prima, maka ketiga bilangan ini membentuk deret ukur. Bilangan ketiga dari bilangan bulat berurutan adalah $\dots$",OSN_Regional_2014_2,,13
+62,OSN,Regional,2014,3,"Misalkan $a,b$ adalah bilangan rill sedemikian sehingga $a+b = \frac{1}{a} + \frac{1}{b} = 6$. Nilai dari $\frac{a}{b} + \frac{b}{a} + 1980$ adalah $\dots$",OSN_Regional_2014_3,,2014
+63,OSN,Regional,2014,4,"Nilai dari
+\[
+\frac{1}{2015!} + \sum_{k=1}^{2014} \frac{k}{(k+1)!}
+\]
+adalah $\dots$",OSN_Regional_2014_4,,1
+64,OSN,Regional,2014,5,"Untuk $0 < x < \pi$, nilai minimum dari $\frac{16\sin^2 x + 9}{\sin x}$ adalah $\dots$",OSN_Regional_2014_5,,$\frac{3}{4}$
+65,OSN,Regional,2014,6,"Misalkan $S$ adalah himpunan bilangan asli yang digitnya tidak berulang dan dipilih dari 1,3,5,7. Jumlah digit satuan dari semua anggota $S$ adalah $\dots$",OSN_Regional_2014_6,,256
+66,OSN,Regional,2014,7,"Misalkan $x,y,z > 1$ dan $w > 0$. Jika $\log_x w = 4$, $\log_y w = 5$ dan $\log_{xyz} w = 2$, maka nilai $\log_z w$ adalah $\dots$",OSN_Regional_2014_7,,20
+67,OSN,Regional,2014,8,Terdapat tiga meja bundar yang identik. Setiap meja harus ditempati minimal satu siswa. Banyaknya cara mendudukkan enam siswa pada meja-meja tersebut adalah $\dots$,OSN_Regional_2014_8,,225
+68,OSN,Regional,2014,9,"Diberikan persegi $ABCD$ dengan panjang sisi 1 satuan. Titik $E$ dan $F$ berturut-turut berada pada sisi $BC$ dan $CD$ sehingga $AEF$ samasisi. Dibuat pula persegi yang melewati $B$ yang sisi-sisinya sejajar dengan $ABCD$ dengan salah satu titik sudutnya berada pada ruas garis $AE$,  namun bukan $A$ dan bukan $E$. Jika panjang sisi persegi yang lebih kecil adalah $\frac{a - \sqrt{b}}{c}$ dengan $a,b,c$ bilangan positif dan b bukan kuadrat sempurna, maka nilai $a + b + c$ adalah $\dots$",OSN_Regional_2014_9,,12
+69,OSN,Regional,2014,10,"Suatu perusahaan memproduksi 100 jenis makanan ringan setiap bulan. Permen dijual dalam bungkus, tiap bungkus berisi 10 permen. Banyaknya cara memilih rasa permen dalam satu bungkus banyaknya cara variasi dari 10 bungkus permen adalah $\dots$",OSN_Regional_2014_10,,84
+70,OSN,Regional,2014,11,"Bilangan-bilangan 1111, 5276, 8251 dan 9441 bersisa sama jika dibagi $N$. Nilai $N$ terbesar yang memiliki sifat tersebut adalah $\dots$",OSN_Regional_2014_11,,595
+71,OSN,Regional,2014,12,"Ada sebanyak $6!$ permutasi dari huruf-huruf OSNMAT. Jika semua permutasi tersebut diurutkan secara abjad dari A ke Z, maka OSNMAT pada urutan ke $\dots$",OSN_Regional_2014_12,,447
+72,OSN,Regional,2014,13,"Segitiga $ABC$ merupakan segitiga sama kaki dengan panjang $AB = AC = 10$ cm. Titik $D$ terletak pada garis $AB$ sejauh 7 cm dari A dan E titik pada garis $AC$ yang terletak sejauh 4 cm dari A. Dari A ditarik garis tinggi dan memotong $BC$ di $F$. Jika bilangan rasional $\frac{a}{b}$ menyatakan perbandingan luas segi empat $ADFE$ terhadap luas segitiga $ABC$ dalam bentuk yang paling sederhana, maka nilai $a+b$ adalah $\dots$",OSN_Regional_2014_13,,31
+73,OSN,Regional,2014,14,Hasil kali semua akar real dari persamaan $2x^2 + 3x + 4 = 2\sqrt{2x^2 + 3x + 12}$ adalah $\dots$,OSN_Regional_2014_14,,$-2$
+74,OSN,Regional,2014,15,"Diberikan segitiga $ABC$ dengan $AB = 360$, $BC = 240$ dan $AC = 180$. Garis bagi dalam dan garis bagi luar dari $\angle CAB$ memotong $BC$ dan perpanjangan $BC$ berturut-turut di $P$ dan $Q$. Jari-jari lingkaran yang melalui titik-titik $A, P$ dan $Q$ adalah $\dots$",OSN_Regional_2014_15,,160
+75,OSN,Regional,2014,16,"Diberikan fungsi kuadrat $f(x) = ax^2 + bx + c$ yang didefinisikan pada himpunan bilangan real dengan $b \ne 0$. Jika $f(x)$ selalu positif, maka nilai terkecil yang mungkin untuk $\frac{a}{b} + \frac{b}{c}$ adalah $\dots$",OSN_Regional_2014_16,,$x<-1$ atau $x>1$
+76,OSN,Regional,2014,17,"Semua pasangan bilangan prima $(p,q)$ yang memenuhi persamaan $(7p - q)^2 = 2(p - 1)q^2$ adalah $\dots$",OSN_Regional_2014_17,,"$(3,7)$ dan $(19,19)$"
+77,OSN,Regional,2014,18,"Diberikan segitiga $ABC$ yang sisi-sisnya tidak sama panjang sehingga panjang garis berat $AN$ dan $BP$ berturut-turut 3 dan 6. Jika luas segitiga $ABC$ adalah $3\sqrt{15}$, maka panjang garis berat ketiga CM adalah $\dots$",OSN_Regional_2014_18,,$3\sqrt{6}$
+78,OSN,Regional,2014,19,Diketahui bahwa $20! + 14! = 24329040955348391200$. Nilai $a$ dan $b$ adalah $\dots$,OSN_Regional_2014_19,,$a=2$ dan $b=5$
+79,OSN,Regional,2014,20,Semua bilangan bulat $n$ sehingga $n^4 - 51n^2 + 225$ merupakan bilangan prima adalah $\dots$,OSN_Regional_2014_20,,"$\{-7,-2,2,7\}$"
+80,OSN,Regional,2015,1,Banyaknya faktor bulat positif dari 2015 adalah $\dots$,OSN_Regional_2015_1,,8
+81,OSN,Regional,2015,2,Suatu dadu ditos enam kali. Probabilitas jumlah mata dadu yang muncul 9 adalah $\dots$,OSN_Regional_2015_2,,$\frac{56}{6}^6$
+82,OSN,Regional,2015,3,"Jika $(f \circ g)(x) = \frac{7x + 3}{5x - 9}$ dan $g(x) = 2x - 4$, maka nilai $f(2)$ adalah $\dots$",OSN_Regional_2015_3,,4
+83,OSN,Regional,2015,4,"Diberikan trapesium $ABCD$ dengan $AB$ sejajar $DC$ dan $AB = 84$ serta $DC = 25$. Jika trapesium $ABCD$ memiliki lingkaran dalam yang menyinggung keempat sisinya, keliling trapesium $ABCD$ adalah $\dots$",OSN_Regional_2015_4,,218
+84,OSN,Regional,2015,5,"Diketahui barisan bilangan real $a_1, a_2, a_3, \ldots$ merupakan barisan geometri. Jika $a_1 + a_4 = 20$, maka nilai minimal dari
+\[
+a_1 + a_2 + a_3 + a_4 + a_5 + a_6
+\]
+adalah $\dots$",OSN_Regional_2015_5,,15
+85,OSN,Regional,2015,6,Bilangan bulat $x$ jika dikalikan 11 terletak di antara 1500 dan 2000. Jika $x$ dikalikan 7 terletak di antara 970 dan 1275. Jika $x$ dikalikan 5 terletak di antara 690 dan 900. Banyaknya bilangan $x$ sedemikian yang habis dibagi 3 sekaligus habis dibagi 5 ada sebanyak $\dots$,OSN_Regional_2015_6,,2
+86,OSN,Regional,2015,7,"Suatu sekolah mempunyai lima kelompok belajar siswa kelas 11. Kelompok-kelompok belajar itu berturut-turut mengirimkan 2, 2, 2, 3, dan 3 siswa untuk suatu pertemuan. Mereka akan duduk melingkar sehingga setiap siswa memiliki paling sedikit satu teman dari kelompok belajar yang sama yang duduk di sampingnya. Banyaknya cara melakukan hal tersebut adalah $\dots$",OSN_Regional_2015_7,,6912
+87,OSN,Regional,2015,8,"Diberikan segitiga $ABC$ dengan sudut $\angle ABC = 90^\circ$. Lingkaran $L_1$ dengan $AB$ sebagai diameter sedangkan lingkaran $L_2$ dengan $BC$ sebagai diameternya. Kedua lingkaran $L_1$ dan $L_2$ berpotongan di $B$ dan $P$. Jika $AB = 5$, $BC = 12$ dan $BP = x$ maka nilai dari $\frac{240}{x}$ adalah $\dots$",OSN_Regional_2015_8,,52
+88,OSN,Regional,2015,9,"Diketahui bilangan real positif $a$ dan $b$ memenuhi persamaan
+\[
+a^4 + a^2 b^2 + b^4 = 6 \quad \text{dan} \quad a^2 + ab + b^2 = 4.
+\]
+Nilai dari $a + b$ adalah $\dots$",OSN_Regional_2015_9,,$\frac{1}{2}\sqrt{21}$
+89,OSN,Regional,2015,10,"Diketahui susunan $4 \times 5$ titik yang jarak ke kanan sama dan jarak ke bawah sama. Ada berapa segitiga (dengan luas positif) yang titik-titik sudutnya adalah ketiga titik pada susunan tersebut?
+
+<img src=""Figure/2015_OSN_Regional_10.PNG"" style=""max-width:100%; width:400px;"">",OSN_Regional_2015_10,2015_OSN_Regional_10.PNG,1056
+90,OSN,Regional,2015,11,"Bilangan $x$ adalah bilangan bulat positif terkecil yang membuat
+\[
+31^n + x \cdot 96^n
+\]
+merupakan kelipatan 2015 untuk setiap bilangan asli $n$. Nilai $x$ adalah $\dots$",OSN_Regional_2015_11,,1364
+91,OSN,Regional,2015,12,"Semua bilangan bulat $n$ yang memenuhi
+\[
+p(n)=\frac{n^8+n^7+n^6+2n^5+2n^4+2n^3+2n^2+2017}{n^2-n+1}
+\]
+bulat adalah $\dots$",OSN_Regional_2015_12,,"$\{-5,-3,0,1,4,6\}$"
+92,OSN,Regional,2015,13,"Diketahui $a,b,c$ akar-akar dari persamaan $x^3 - 5x^2 - 9x + 10 = 0$. Jika suku banyak $P(x)=Ax^3+Bx^2+Cx-2015$ memenuhi $P(a)=b+c$, $P(b)=a+c$ dan $P(c)=a+b$ maka nilai dari $A+B+C$ adalah $\dots$",OSN_Regional_2015_13,,2625
+93,OSN,Regional,2015,14,"Pada segitiga $ABC$, garis tinggi $AD$, garis bagi $BE$ dan garis berat $CF$ berpotongan di satu titik. Jika panjang $AB=4$ dan $BC=5$, dan $CD = \frac{m^2}{n^2}$ dengan $m$ dan $n$ relatif prima, maka nilai dari $m-n$ adalah $\dots$",OSN_Regional_2015_14,,2
+94,OSN,Regional,2015,15,"Banyaknya bilangan asli $n\le 2015$ yang dapat dinyatakan dalam bentuk $n=a+b$ dengan $a,b$ bilangan asli yang memenuhi $a-b$ bilangan prima dan $ab$ bilangan kuadrat sempurna adalah $\dots$",OSN_Regional_2015_15,,17
+95,OSN,Regional,2015,16,"Tiga titik berbeda $B,C,D$ terletak segaris dengan $C$ di antara $B$ dan $D$. Titik $A$ adalah suatu titik yang tidak terletak di garis $BD$ dan memenuhi $|AB|=|AC|=|CD|$. Jika diketahui
+\[
+\frac{1}{|CD|} = \frac{1}{|BD|} - \frac{1}{|CE|+|BD|}
+\]
+maka besar sudut $\angle BAC$ adalah $\dots$",OSN_Regional_2015_16,,$36^{\circ}$
+96,OSN,Regional,2015,17,Banyak-mangkok pada papan caturn berukuran $3\times 3$ diisi dengan angka satu hingga sembilan dengan syarat angka-angka berbeda. Banyaknya penomoran yang mungkin sehingga jumlah angka pada masing-masing baris dan masing-masing kolom habis dibagi 3 adalah $\dots$,OSN_Regional_2015_17,,81
+97,OSN,Regional,2015,18,"Pada segilima beraturan $ABCDE$, diagonal-diagonalnya berpotongan di $F,G,H,I$ dan $J$. Misalkan $S_1$ menyatakan luas segilima $ABCDE$ dan $S_2$ menyatakan luas segilima $FGHIJ$. Jika
+\[
+\frac{S_1}{S_2} = \frac{m - \sqrt{n}}{k},
+\]
+dengan $k,m,n$ bilangan bulat positif dan $n$ tidak memiliki faktor kuadrat selain 1, maka nilai dari $k + m + n$ adalah $\dots$",OSN_Regional_2015_18,,$\frac{7+3\sqrt{5}}{2}$
+98,OSN,Regional,2015,19,"Suatu permutasi $a_1,a_2,\ldots,a_{10}$ dari $\{1,2,\ldots,10\}$ dikatakan sebagai permutasi yang \emph{hampir naik} jika terdapat tepat satu indeks $i$ sehingga $a_{i-1}>a_i$. Banyaknya permutasi hampir naik yang mungkin adalah $\dots$",OSN_Regional_2015_19,,1013
+99,OSN,Regional,2015,20,"Untuk setiap bilangan real $a$, didefinisikan $f(a)$ sebagai nilai maksimal dari
+\[
+\left|\sin x + \frac{2}{3+\sin x} + a\right|.
+\]
+Nilai minimal dari $f(a)$ adalah $\dots$",OSN_Regional_2015_20,,$\frac{3}{4}$
+100,OSN,Regional,2016,1,"Jika $a,b,c,d,e$ merupakan bilangan asli dengan $a < 2b$, $b < 3c$, $c < 4d$, $d < 5e$ dan $e < 100$, maka nilai maksimum dari $a$ adalah $\dots$",OSN_Regional_2016_1,,
+101,OSN,Regional,2016,2,Rudi membuat bilangan asli dua digit. Probabilitas bahwa kedua digit bilangan tersebut merupakan bilangan prima dan bilangan tersebut bersisa 3 jika dibagi 7 adalah $\dots$,OSN_Regional_2016_2,,
+102,OSN,Regional,2016,3,"Pada segitiga $ABC$, titik $M$ terletak pada $BC$ sehingga $AB = 7$, $AM = 3$, $BM = 5$ dan $MC = 6$. Panjang $AC$ adalah $\dots$",OSN_Regional_2016_3,,
+103,OSN,Regional,2016,4,Diberikan $a$ dan $b$ bilangan real dengan $\sqrt{a} - \sqrt{b} = 20$. Nilai maksimum dari $a - 5b$ adalah $\dots$,OSN_Regional_2016_4,,
+104,OSN,Regional,2016,5,"Pada segitiga $ABC$, titik $X,Y$ dan $Z$ berturut-turut terletak pada sinar $BA$, $CB$ dan $AC$ sehingga $BX = 2BA$, $CY = 2CB$ dan $AZ = 2AC$. Jika luas $\triangle ABC$ adalah $1$, maka luas $\triangle XYZ$ adalah $\dots$",OSN_Regional_2016_5,,
+105,OSN,Regional,2016,6,Banyaknya bilangan asli $n$ yang memenuhi sifat hasil jumlah $n$ dan suatu pembagi positif $n$ yang kurang dari $n$ sama dengan 2016 adalah $\dots$,OSN_Regional_2016_6,,
+106,OSN,Regional,2016,7,Misalkan $a$ adalah bilangan real sehingga polinomial $p(x) = x^4 + 4x + a$ habis dibagi oleh $(x - c)^2$ untuk suatu bilangan real $c$. Nilai $a$ yang memenuhi adalah $\dots$,OSN_Regional_2016_7,,
+107,OSN,Regional,2016,8,Anak laki–laki dan anak perempuan yang berjumlah 48 orang duduk melingkar secara acak. Banyaknya minimum anak perempuan sehingga pasti ada enam anak perempuan yang duduk berdekatan tanpa diselingi anak laki–laki adalah $\dots$,OSN_Regional_2016_8,,
+108,OSN,Regional,2016,9,"Misalkan $(a,b,c,d,e,f)$ adalah sebarang pengurutan dari $\{1,2,3,4,5,6\}$. Banyaknya pengurutan sehingga $a + c + e > b + d + f$ adalah $\dots$",OSN_Regional_2016_9,,
+109,OSN,Regional,2016,10,"Misalkan $n_1, n_2, n_3, \dots$ bilangan–bilangan asli yang membentuk barisan aritmatika. Banyaknya nilai $d$ di himpunan $\{1,2,3,\dots,1000\}$ yang mungkin menjadi nilai $n_{n_2} - n_{n_1}$ adalah $\dots$",OSN_Regional_2016_10,,
+110,OSN,Regional,2016,11,"Segitiga $ABC$ mempunyai panjang sisi $AB = 20$, $AC = 21$ dan $BC = 29$. Titik $D$ dan $E$ terletak pada segmen garis $BC$, dengan $BD = 8$ dan $EC = 9$. Besar $\angle DAE$ adalah \dots derajat.",OSN_Regional_2016_11,,
+111,OSN,Regional,2016,12,"Bilangan real $t$ sehingga terdapat dengan tunggal tripel bilangan real $(x,y,z)$ yang memenuhi $x^2 + 2y^2 = 3z$ dan $x + y + z = t$ adalah $\dots$",OSN_Regional_2016_12,,
+112,OSN,Regional,2016,13,Palindrom adalah bilangan yang sama dibaca dari depan atau dari belakang. Sebagai contoh 12321 dan 32223 merupakan palindrom. Palindrom 5 digit terbesar yang habis dibagi 303 adalah $\dots$,OSN_Regional_2016_13,,
+113,OSN,Regional,2016,14,"Diberikan barisan $\{a_n\}$ dan $\{b_n\}$ dengan $a_n = \frac{1}{n\sqrt{n}}$ dan
+\[
+b_n = \frac{1}{(1 + 1/n) + \sqrt{1 + 1/n}}
+\]
+untuk setiap bilangan asli $n$. Misalkan
+\[
+S_n = a_1 b_1 + a_2 b_2 + \cdots + a_n b_n.
+\]
+Banyaknya bilangan asli $n \le 2016$ sehingga $S_n$ merupakan bilangan rasional adalah $\dots$",OSN_Regional_2016_14,,
+114,OSN,Regional,2016,15,Diberikan persegi $ABCD$ dengan panjang sisi $1$. Titik $K$ dan $L$ berturut-turut terletak pada segmen $BC$ dan $DC$ sehingga keliling $\triangle KCL$ adalah $2$. Luas minimum dari $\triangle AKL$ adalah $\dots$,OSN_Regional_2016_15,,
+115,OSN,Regional,2016,16,"Banyaknya pasangan terurut bilangan asli $(a,b,c)$ dengan $a,b,c \in \{1,2,3,4,5\}$ sehingga
+\[
+\max\{a,b,c\} < 2\min\{a,b,c\}
+\]
+adalah $\dots$",OSN_Regional_2016_16,,
+116,OSN,Regional,2016,17,"Banyaknya bilangan asli $n \in \{1,2,3,\dots,1000\}$ sehingga terdapat bilangan real positif $x$ yang memenuhi $x^2 + \lfloor x \rfloor^2 = n$ adalah $\dots$",OSN_Regional_2016_17,,
+117,OSN,Regional,2016,18,"Misalkan $x,y,z$ bilangan real positif yang memenuhi
+\[
+3\log_x(3y) = 3\log_{3x}(27z) = \log_{3x^4}(81yz) \ne 0.
+\]
+Nilai dari $x^5 y^4 z$ adalah $\dots$",OSN_Regional_2016_18,,
+118,OSN,Regional,2016,19,"Diberikan empat titik pada satu lingkaran $\Gamma$ dalam urutan $A,B,C,D$. Sinar garis $AB$ dan $DC$ berpotongan di $E$, dan sinar garis $AD$ dan $BC$ berpotongan di $F$. Misalkan $EP$ dan $FQ$ menyinggung lingkaran $\Gamma$ berturut-turut di $P$ dan $Q$. Jika $EP = 60$ dan $FQ = 63$, maka panjang $EF$ adalah $\dots$",OSN_Regional_2016_19,,
+119,OSN,Regional,2016,20,"Pada sebuah bidang datar, terdapat 16 garis berbeda dan $n$ titik potong berbeda. Nilai minimal $n$ sehingga dapat dipastikan terdapat 3 kelompok garis yang masing–masing memuat garis–garis berbeda yang saling sejajar adalah $\dots$",OSN_Regional_2016_20,,
+120,OSN,Regional,2017,1,Diketahui $x - y = 10$ dan $xy = 10$. Nilai $x^4 + y^4$ adalah $\dots$,OSN_Regional_2017_1,,
+121,OSN,Regional,2017,2,"Empat siswa Adi, Budi, Cokro, dan Dion bertanding balap sepeda. Kita hanya diberikan sebagian informasi sebagai berikut:
+<ul>
+<li>Setiap siswa sampai di garis finish pada waktu yang berlainan,
+</li><li>Adi bukan juara pertama,
+</li><li>Cokro kalah dari Budi.
+</li></ul>
+Dengan hanya mengetahui informasi ini saja, banyaknya susunan juara pertama, kedua, ketiga, dan keempat adalah $\dots$",OSN_Regional_2017_2,,
+122,OSN,Regional,2017,3,Banyaknya bilangan asli $k$ yang memenuhi $k \mid (n^7 - n)$ untuk semua bilangan asli $n$ adalah $\dots$,OSN_Regional_2017_3,,
+123,OSN,Regional,2017,4,"Pada sebuah lingkaran dengan pusat $O$, tali busur $AB$ berjarak $5$ dari titik $O$ dan tali busur $AC$ berjarak $5\sqrt{2}$ dari titik $O$. Jika panjang jari-jari lingkaran $10$, maka $BC^2$ adalah $\dots$",OSN_Regional_2017_4,,
+124,OSN,Regional,2017,5,"Jika
+\[
+\frac{(a - b)(c - d)}{(b - c)(d - a)} = -\frac{4}{7},
+\]
+maka nilai dari
+\[
+\frac{(a - c)(b - d)}{(a - b)(c - d)}
+\]
+adalah $\dots$",OSN_Regional_2017_5,,
+125,OSN,Regional,2017,6,"Pada suatu kotak ada sekumpulan bola berwarna merah dan hitam yang secara keseluruhannya kurang dari 1000 bola. Misalkan diambil dua bola. Peluang terambilnya dua bola merah adalah $p$ dan peluang terambilnya dua bola hitam adalah $q$ dengan
+\[
+p - q = \frac{23}{37}.
+\]
+Selisih terbesar yang mungkin dari banyaknya bola merah dan hitam adalah $\dots$",OSN_Regional_2017_6,,
+126,OSN,Regional,2017,7,"Misalkan $s(n)$ menyatakan faktor prima terbesar dari $n$ dan $t(n)$ menyatakan faktor prima terkecil dari $n$. Banyaknya bilangan asli $n \in \{1, 2, \dots, 100\}$ sehingga $t(n) + 1 = s(n)$ adalah $\dots$",OSN_Regional_2017_7,,
+127,OSN,Regional,2017,8,"Semua titik sudut suatu persegi dengan panjang sisi $s$ terletak pada batas dari juring lingkaran berjari-jari $r$ yang sudut pusatnya $60^\circ$. Jika persegi diletakkan secara simetris di dalam juring, maka nilai $\frac{r^2}{s^2}$ adalah $\dots$",OSN_Regional_2017_8,,
+128,OSN,Regional,2017,9,"Misalkan $a, b, c$ bilangan real positif yang memenuhi $a + b + c = 1$. Nilai minimum dari
+\[
+\frac{a + b}{abc}
+\]
+adalah $\dots$",OSN_Regional_2017_9,,
+129,OSN,Regional,2017,10,"Sebuah hotel mempunyai kamar bernomor 000 sampai dengan 999. Hotel tersebut menerapkan aturan aneh sebagai berikut: jika suatu kamar berisi tamu, dan sembarang dua digit nomor kamar tersebut dipertukarkan tempatnya, maka diperoleh nomor kamar yang sama atau nomor kamar yang tidak berisi tamu. Maksimal banyaknya kamar yang berisi tamu adalah $\dots$",OSN_Regional_2017_10,,
+130,OSN,Regional,2017,11,"Jika $f$ memetakan himpunan bilangan asli ke himpunan bilangan bulat tak negatif. Fungsi tersebut memenuhi $f(1) = 0$ dan untuk setiap bilangan asli berbeda $m,n$ dengan $m \mid n$, berlaku $f(m) < f(n)$. Jika diketahui $f(8) = 11$, maka nilai dari $f(2016)$ adalah $\dots$",OSN_Regional_2017_11,,
+131,OSN,Regional,2017,12,"Diberikan segitiga $ABC$ dengan $AC = \tfrac12 (AB + BC)$. Misalkan $K$ dan $M$ berturut-turut titik tengah $AB$ dan $BC$. Titik $L$ terletak pada sisi $AC$ sehingga $BL$ adalah garis bagi sudut $ABC$. Jika $\angle ABC = 72^\circ$, maka besarnya sudut $KLM$ sama dengan $\dots$",OSN_Regional_2017_12,,
+132,OSN,Regional,2017,13,"Misalkan $P(x)$ suatu polinom berderajat 4 yang memiliki nilai maksimum 2018 di $x=0$ dan $x=2$. Jika $P(1)=2017$, maka nilai $P(3)$ adalah $\dots$",OSN_Regional_2017_13,,
+133,OSN,Regional,2017,14,"Terdapat enam anak $A,B,C,D,E,F$ akan saling bertukar kado. Tidak ada yang menerima kadonya sendiri, dan kado dari $A$ diberikan kepada $B$. Banyaknya cara membagikan kado dengan cara demikian adalah $\dots$",OSN_Regional_2017_14,,
+134,OSN,Regional,2017,15,Bilangan asli terbesar $n$ sehingga $n!$ dapat dinyatakan sebagai hasil perkalian dari $n-4$ bilangan asli berurutan adalah $\dots$,OSN_Regional_2017_15,,
+135,OSN,Regional,2017,16,"Pada segitiga $ABC$ titik $K$ dan $L$ berturut–turut adalah titik tengah $AB$ dan $AC$. Jika $CK$ dan $BL$ saling tegak lurus, maka nilai minimum dari $\cot B + \cot C$ adalah $\dots$",OSN_Regional_2017_16,,
+136,OSN,Regional,2017,17,"Misalkan $a,b,c,d$ bilangan–bilangan bulat positif. Jajaran genjang yang dibatasi oleh garis–garis $y=ax+c$, $y=ax+d$, $y=bx+c$, dan $y=bx+d$ mempunyai luas 18. Jajaran genjang yang dibatasi oleh garis–garis $y=ax+c$, $y=ax-d$, $y=bx+c$, dan $y=bx-d$ mempunyai luas 72. Nilai terkecil yang mungkin untuk $a+b+c+d$ adalah $\dots$",OSN_Regional_2017_17,,
+137,OSN,Regional,2017,18,Seratus bilangan bulat disusun mengelilingi lingkaran sedemikian sehingga (menurut arah jarum jam) setiap bilangan lebih besar daripada hasil penjumlahan dua bilangan sebelumnya. Maksimal banyaknya bilangan bulat positif yang terdapat pada lingkaran tersebut adalah $\dots$,OSN_Regional_2017_18,,
+138,OSN,Regional,2017,19,"Untuk sebarang bilangan asli $n$, misalkan $S(n)$ adalah jumlah digit-digit dari $n$ dalam penulisan desimal. Jika $S(n) = 5$, maka nilai maksimum dari $S(n^5)$ adalah $\dots$",OSN_Regional_2017_19,,
+139,OSN,Regional,2017,20,"Diberikan segitiga $ABC$ dengan $AB = 12$, $BC = 5$ dan $AC = 13$. Misalkan $P$ suatu titik pada garis bagi $\angle A$ yang terletak di dalam $ABC$ dan misalkan $M$ suatu titik pada sisi $AB$ (dengan $A \ne M \ne B$). Garis $AP$ dan $MP$ memotong $BC$ dan $AC$ berturut–turut di $D$ dan $N$. Jika $\angle MPB = \angle PCN$ dan $\angle NPC = \angle MBP$, maka nilai $\dfrac{AP}{PD}$ adalah $\dots$",OSN_Regional_2017_20,,
+140,OSN,Regional,2018,1,"Misalkan $a, b,$ dan $c$ adalah tiga bilangan berbeda. Jika ketiga bilangan tersebut merupakan bilangan asli satu digit maka jumlah terbesar akar-akar persamaan
+\[
+(x - a)(x - b) + (x - b)(x - c) = 0
+\]
+yang mungkin adalah $\dots$",OSN_Regional_2018_1,,
+141,OSN,Regional,2018,2,"Setiap sel dari suatu tabel berukuran $2 \times 2$ dapat diisi dengan bilangan $1, 2,$ atau $3$. Misalkan $N$ adalah banyaknya tabel yang memenuhi kedua sifat berikut sekaligus:
+<ul>
+<li>Untuk setiap baris, hasil penjumlahannya genap.
+</li><li>Untuk setiap kolom, hasil penjumlahannya genap.
+</li></ul>
+Nilai $N$ adalah $\dots$",OSN_Regional_2018_2,,
+142,OSN,Regional,2018,3,"Diberikan persegi berukuran $3 \times 3$ satuan seperti pada gambar. Luas segilima yang diarsir adalah \dots
+<img src=""Figure/2018_OSN_Regional_3.PNG"" style=""max-width:100%; width:400px;"">",OSN_Regional_2018_3,2018_OSN_Regional_3.PNG,
+143,OSN,Regional,2018,4,Parabola $y = ax^2 - 4$ dan $y = 8 - bx^2$ memotong sumbu koordinat pada tepat empat titik. Keempat titik tersebut merupakan titik-titik sudut layang-layang dengan luas 24. Nilai $a + b$ adalah $\dots$,OSN_Regional_2018_4,,
+144,OSN,Regional,2018,5,Untuk setiap bilangan asli $n$ didefinisikan $s(n)$ sebagai hasil penjumlahan dari semua digit-digit dari $n$. Banyaknya bilangan asli $d$ sehingga $d$ habis membagi $n - s(n)$ untuk setiap bilangan asli $n$ adalah $\dots$,OSN_Regional_2018_5,,
+145,OSN,Regional,2018,6,"Diketahui $x$ dan $y$ bilangan prima dengan $x < y$, dan
+\[
+x^3 + y^3 + 2018 = 30y^2 - 300y + 3018.
+\]
+Nilai $x$ yang memenuhi adalah $\dots$",OSN_Regional_2018_6,,
+146,OSN,Regional,2018,7,"Diberikan dua bilangan asli dua angka yang selisihnya 10. Diketahui bahwa bilangan yang kecil merupakan kelipatan 3, sedangkan yang lainnya merupakan kelipatan 7. Diketahui pula bahwa jumlah semua faktor prima kedua bilangan tersebut adalah 17. Jumlah dua bilangan tersebut adalah $\dots$",OSN_Regional_2018_7,,
+147,OSN,Regional,2018,8,"Diberikan satu koin yang tidak seimbang. Bila koin tersebut ditos satu kali, peluang muncul angka adalah $\frac{1}{4}$. Jika ditos $n$ kali, peluang muncul tepat dua angka sama dengan peluang muncul tepat tiga angka. Nilai $n$ adalah $\dots$",OSN_Regional_2018_8,,
+148,OSN,Regional,2018,9,Panjang sisi-sisi dari segitiga merupakan bilangan asli yang berurutan. Diketahui bahwa garis berat dari segitiga tegak lurus dengan salah satu garis baginya. Keliling segitiga itu adalah $\dots$,OSN_Regional_2018_9,,
+149,OSN,Regional,2018,10,"Diberikan suku banyak $p(x)$ dengan
+\[
+p(x)^2 + p(x^2) = 2x^2
+\]
+untuk setiap bilangan real $x$. Jika $p(1) \ne 1$, maka jumlah semua nilai $p(10)$ yang mungkin adalah $\dots$",OSN_Regional_2018_10,,
+150,OSN,Regional,2018,11,"Misalkan $\{x_n\}$ adalah barisan bilangan bulat yang memenuhi
+$x_1 = x_2 = \dots = x_{12} = 0$, $x_{13} = 2$, dan untuk setiap bilangan asli $n$ berlaku
+\[
+x_{n+13} = x_{n+4} + 2x_n.
+\]
+Nilai $x_{143}$ adalah $\dots$",OSN_Regional_2018_11,,
+151,OSN,Regional,2018,12,"Untuk setiap bilangan real $z$, $[z]$ menyatakan bilangan bulat terbesar yang lebih kecil dari atau sama dengan $z$.
+Jika diketahui $[x] + [y] + y = 43.8$ dan $x + y - [x] = 18.4$, nilai $10(x + y)$ adalah $\dots$",OSN_Regional_2018_12,,
+152,OSN,Regional,2018,13,"Misalkan $ABCD$ adalah trapesium siku-siku dengan $AB$ sejajar $DC$ dan $AB$ tegak lurus $AD$.
+Misalkan pula $P$ adalah titik potong diagonal $AC$ dan $BD$.
+Jika perbandingan luas segitiga $APD$ dan luas trapesium $ABCD$ adalah $4 : 25$ maka nilai
+\[
+\frac{AB}{DC}
+\]
+adalah $\dots$",OSN_Regional_2018_13,,
+153,OSN,Regional,2018,14,"Himpunan $S$ merupakan himpunan bilangan-bilangan 7 digit sehingga masing-masing angka 1--7 tepat muncul satu kali.
+Bilangan-bilangan di $S$ diurutkan mulai dari yang paling kecil sampai paling besar.
+Bilangan yang berada pada urutan ke-2018 adalah $\dots$",OSN_Regional_2018_14,,
+154,OSN,Regional,2018,15,"Misalkan $S = \{x \in \mathbb{R} \mid 0 \le x \le 1\}$.
+Banyaknya pasangan bilangan asli $(a,b)$ sehingga tepat ada 2018 anggota $S$ yang dapat dinyatakan dalam bentuk
+\[
+\frac{x}{a} + \frac{y}{b}
+\]
+untuk suatu bilangan bulat $x$ dan $y$ adalah $\dots$",OSN_Regional_2018_15,,
+155,OSN,Regional,2018,16,"Diberikan segitiga $ABC$ dan lingkaran $\Gamma$ yang berdekatan dengan $ABC$.
+Lingkaran $\Gamma$ memotong sisi $AC$ dan $BC$ berturut-turut di $D$ dan $E$.
+Jika $AB = 30$, $AD = \frac{1}{3} AC$, dan $BE = \frac{1}{4} BC$, maka luas segitiga $ABC$ adalah $\dots$",OSN_Regional_2018_16,,
+156,OSN,Regional,2018,17,"Diberikan bilangan real $x$ dan $y$ yang memenuhi
+\[
+\frac12 < \frac{x}{y} < 2.
+\]
+Nilai minimum
+\[
+\frac{x}{2y - x} + \frac{2y}{2x - y}
+\]
+adalah $\dots$",OSN_Regional_2018_17,,
+157,OSN,Regional,2018,18,"Diberikan sembilan titik pada bidang yang membentuk segitiga sama sisi.
+Pada tiap sisi, dua titik yang bukan titik sudut segitiga membagi sisi menjadi tiga bagian sama panjang.
+Kesembilan titik ini akan diwarnai masing-masing dengan warna merah atau biru.
+Peluang bahwa dari kesembilan titik tersebut terdapat tiga titik yang warnanya sama dan membentuk segitiga siku-siku adalah \dots
+
+<img src=""Figure/2018_OSN_Regional_18.png"" style=""max-width:100%; width:400px;"">",OSN_Regional_2018_18,2018_OSN_Regional_18.png,
+158,OSN,Regional,2018,19,Bilangan prima terbesar yang dapat dinyatakan dalam bentuk $a^4 + b^4 + 13$ untuk suatu bilangan-bilangan prima $a$ dan $b$ adalah $\dots$,OSN_Regional_2018_19,,
+159,OSN,Regional,2018,20,"Pada segitiga $ABC$, panjang sisi $BC$ adalah $1$ satuan.
+Ada tepat satu titik $D$ pada sisi $BC$ yang memenuhi $|DA|^2 = |DB| \cdot |DC|$.
+Jika $k$ menyatakan keliling $ABC$, jumlah semua $k$ yang mungkin adalah $\dots$",OSN_Regional_2018_20,,
+160,OSN,Regional,2019,1,"Pak Budi memiliki sawah berbentuk huruf L. Jika diketahui bahwa sawahnya Pak Budi hanya memiliki sisi yang panjangnya $5$ meter dan $10$ meter dan semua sudut sawahnya siku-siku, luas sawah Pak Budi adalah \dots meter persegi.",OSN_Regional_2019_1,,
+161,OSN,Regional,2019,2,Jika sebuah jam sekarang menunjukkan pukul $13:00$ maka $2019$ menit yang lalu jam tersebut menunjukkan pukul $\dots$,OSN_Regional_2019_2,,
+162,OSN,Regional,2019,3,Kedua akar persamaan kuadrat $x^2-111x+k=0$ adalah bilangan prima. Nilai $k$ adalah $\dots$,OSN_Regional_2019_3,,
+163,OSN,Regional,2019,4,"Ani dan Banu bermain dadu enam sisi. Jika dadu yang keluar bernilai genap, maka Ani mendapatkan skor $1$ sedangkan jika dadu yang keluar bernilai ganjil, maka Banu yang mendapatkan skor $1$. Pemenang dari permainan ini adalah orang pertama yang mendapatkan skor $5$. Setelah dilakukan pelemparan dadu sebanyak $5$ kali, Ani mendapat skor $4$ dan Bnu mendapatkan skor $1$. Peluang Ani memenangkan permainan ini adalah $\dots$",OSN_Regional_2019_4,,
+164,OSN,Regional,2019,5,"Diketahui $a+2b=1$, $b+2c=2$, dan $b\neq 0$. Jika $a+nb+2018c=2019$ maka nilai $n$ adalah $\dots$",OSN_Regional_2019_5,,
+165,OSN,Regional,2019,6,"Misalkan $a=2\sqrt{2}-\sqrt{8-4\sqrt{2}}$ dan $b=2\sqrt{2}+\sqrt{8-4\sqrt{2}}$. Jika $\dfrac{a}{b}+\dfrac{b}{a}=x+y\sqrt{2}$ dengan $x,y$ bilangan bulat, maka $x+y$ adalah $\dots$",OSN_Regional_2019_6,,
+166,OSN,Regional,2019,7,Diberikan suatu trapesium $ABCD$ dengan $AB$ sejajar $CD$. Misalkan titik $P$ dan $Q$ berturut-turut pada $AD$ dan $BC$ sedemikian sehingga $PQ$ sejajar $AB$ dan membagi trapesium menjadi dua bagian yang sama luasnya. Jika $AB=17$ dan $DC=7$ maka nilai $PQ$ adalah $\dots$,OSN_Regional_2019_7,,
+167,OSN,Regional,2019,8,"Tujuh buah bendera dengan motif berbeda akan dipasang pada 4 tiang bendera. Pada masing-masing tiang bendera bisa dipasang sebanyak nol, satu, atau lebih dari satu bendera. Banyaknya care memasang bendera tersebut adalah $\dots$",OSN_Regional_2019_8,,
+168,OSN,Regional,2019,9,"Misalkan $n$ adalah bilangan asli terkecil yang semua digitnya sama dan sedikitnya terdiri dari $2019$ digit. Jika $n$ habis dibagi $126$, maka hasil penjumlahan semua digit dari $n$ adalah $\dots$",OSN_Regional_2019_9,,
+169,OSN,Regional,2019,10,"Untuk sebarang bilangan real $x$, simbol $\lfloor x\rfloor$ menyatakan bilangan bulat terbesar yang tidak lebih besar daripada $x$, sedangakan $\lceil x\rceil$ menyatakan bilangan bulat terkecil yang tidak lebih kecil dibanding $x$. Interval $[a,b)$ adalah himpunan semua bilangan real $x$ yang memenuhi
+$$\lfloor 2x\rfloor^2=\lceil x\rceil+7.$$
+Nilai $a\cdot b$ adalah $\dots$",OSN_Regional_2019_10,,
+170,OSN,Regional,2019,11,Sisa pembagian $1111^{2019}$ oleh $11111$ adalah $\dots$,OSN_Regional_2019_11,,
+171,OSN,Regional,2019,12,"Diberikan segitiga $ABC$ dengan $D$ pertengahan $AC$, $E$ pertengahan $BD$, dan $H$ merupakan pencerminan dari $A$ terhadap $E$.
+Jika $F$ perpotongan antara $AH$ dengan $BC$, maka nilai
+\[
+\frac{AF}{FH}
+\]
+adalah $\dots$",OSN_Regional_2019_12,,
+172,OSN,Regional,2019,13,Banyaknya bilangan delapan digit yang setiap digitnya adalah 1 atau 2 tetapi tidak memuat tiga digit 1 berurutan adalah $\dots$,OSN_Regional_2019_13,,
+173,OSN,Regional,2019,14,"Misalkan $f(x) = 1 + \frac{90}{x}$.
+Nilai terbesar $x$ yang memenuhi
+\[
+f(f(\cdots f(x)\cdots)) = x
+\]
+(2019 kali) adalah $\dots$",OSN_Regional_2019_14,,
+174,OSN,Regional,2019,15,"Misalkan $ABCD$ adalah persegi dengan panjang sisi 4.
+Lingkaran-lingkaran $x, y, z$ dengan jari-jari sama mempunyai pusat di dalam persegi sedemikian sehingga lingkaran $x$ menyinggung sisi $AB$ dan $AD$, lingkaran $y$ menyinggung sisi $AB$ dan $BC$, serta lingkaran $z$ menyinggung sisi $DC$, lingkaran $x$, dan lingkaran $y$.
+Diketahui jari-jari lingkaran $x$ dapat dinyatakan dengan $n - \sqrt{m}$ dengan $m$ dan $n$ bilangan bulat positif.
+Nilai $m$ adalah $\dots$",OSN_Regional_2019_15,,
+175,OSN,Regional,2019,16,"Semua bilangan bulat $n$ sehingga
+\[
+n^4 + 16n^3 + 71n^2 + 56n
+\]
+merupakan bilangan kuadrat tak nol adalah $\dots$",OSN_Regional_2019_16,,
+176,OSN,Regional,2019,17,"Diberikan jajar genjang $ABCD$, dengan $\angle ABC = 105^\circ$.
+Titik $M$ berada di dalam jajar genjang sehingga segitiga $BMC$ sama sisi dan $\angle CMD = 135^\circ$.
+Jika $K$ pertengahan sisi $AB$, maka besarnya $\angle BKC$ adalah \dots derajat.",OSN_Regional_2019_17,,
+177,OSN,Regional,2019,18,"Bilangan real terbesar $M$ sehingga untuk setiap bilangan positif $x$ berlaku
+\[
+(x+1)(x+3)(x+5)(x+11) \ge Mx
+\]
+adalah $\dots$",OSN_Regional_2019_18,,
+178,OSN,Regional,2019,19,"Banyaknya tripel bilangan bulat $(m,n,p)$ dengan $p$ prima yang memenuhi
+\[
+p^2 n^2 - 3mn = 21p - m^2
+\]
+adalah $\dots$",OSN_Regional_2019_19,,
+179,OSN,Regional,2019,20,"Suatu lomba matematika diikuti oleh 2019 peserta.
+Untuk setiap dua peserta lomba, keduanya saling mengenal atau saling tidak mengenal.
+Tidak ada tiga peserta yang ketiganya saling mengenal.
+Misalkan $m$ adalah bilangan asli sehingga:
+<ul>
+<li>Setiap peserta mengenal paling banyak $m$ peserta lainnya.
+</li><li>Untuk setiap bilangan asli $k$ dengan $1 \le k \le m$, minimal terdapat satu orang peserta yang mengenal tepat $k$ peserta lainnya.
+</li></ul>
+Nilai $m$ terbesar yang mungkin adalah $\dots$",OSN_Regional_2019_20,,
+180,OSN,Regional,2020,1,Misalkan $$f(x)=\dfrac{3(x-1)(x-2)}{2}+\dfrac{(x-2)(x-3)}{2}-2(x-1)(x-3).$$ Nilai dari $f(20)=\dots$,OSN_Regional_2020_1,,
+181,OSN,Regional,2020,2,Diberikan sebuah kubus besar berukuran $3 \times 3 \times 3$ yang seluruh permukaannya dicat dengan warna merah. Kubus tersebut dipotong menjadi 27 kubus satuan (kubus berukuran $1 \times 1 \times 1$). Diketahui bahwa Amir mengambil satu kubus kecil yang salah satu sisinya berwarna merah. Peluang kubus kecil yang diambil Amir memiliki tepat dua sisi berwarna merah adalah $\dots$,OSN_Regional_2020_2,,
+182,OSN,Regional,2020,3,"Diberikan trapesium siku-siku seperti pada gambar di bawah ini.
+<img src=""Figure/2020_OSN_Regional_3.png"" style=""max-width:100%; width:400px;"">
+Jika $AB=1$, $BD=\sqrt{7}$, dan $AD=CD$, maka luas trapesium tersebut adalah $\dots$",OSN_Regional_2020_3,2020_OSN_Regional_3.png,
+183,OSN,Regional,2020,4,"Misalkan $x,y$ bilangan asli sehingga $2x+3y=2020$. Nilai terbesar yang mungkin dari $3x+2y$ adalah $\dots$",OSN_Regional_2020_4,,
+184,OSN,Regional,2020,5,"Suatu barisan bilangan real $a_1,a_2,a_3,\dots$ memenuhi $a_1=1,a_2=\dfrac{3}{5}$, dan $$\dfrac{1}{a_n}=\dfrac{2}{a_{n-1}}-\dfrac{1}{a_{n-2}}$$ untuk setiap $n\geq3$. Bilangan $a_{2020}$ dapat ditulis sebagai $\dfrac{p}{q}$ dengan $p$ dan $q$ bilangan asli relatif prima. Nilai $p+q$ adalah $\dots$",OSN_Regional_2020_5,,
+185,OSN,Regional,2020,6,"Diketahui $S$ adalah himpunan semua titik $(x,y)$ pada bidang Cartesius, dengan $x,y$ bilangan bulat, $0\leq x \leq 20$ dan $0 \leq y \leq 19$. Banyaknya cara memilih dua titik berbeda di $S$  sehingga titik tengahnya juga ada di $S$ adalah $\dots$.
+\\
+Catatan: Dua titik $P(a,b)$ dan $Q(c,d)$ berbeda jika $a \neq c$  dan  $b \neq d$. Pasangan titik $(P,Q)$ dan $(Q,P)$ dianggap sama.",OSN_Regional_2020_6,,
+186,OSN,Regional,2020,7,"Diketahui segitiga $ABC$ dengan panjang sisi $BC=3$, $CA=4$, dan $AB=5$. Titik $P$ terletak pada $AB$ dan $Q$ terletak pada $AC$ sehingga $AP=AQ$ dan garis $PQ$ membagi segitiga $ABC$ menjadi dua daerah dengan luas yang sama. Panjang segment $PQ$ adalah $\dots$",OSN_Regional_2020_7,,
+187,OSN,Regional,2020,8,"Himpunan penyelesaian dari persamaan $$|x+1|+\left|\dfrac{19}{x-1}\right|=\dfrac{20-x^2}{1-x}$$ adalah interval $[a,b)$. Nilai dari $b-a$ adalah $\dots$",OSN_Regional_2020_8,,
+188,OSN,Regional,2020,9,"Misalkan $n \geq 2$ bilangan asli sedemikian sehingga untuk setiap bilangan asli $a,b$ dengan  $a+b = n$ berlaku $a^2+b^2$ merupakan bilangan prima. Hasil penjumlahan semua bilangan asli $n$ semacam itu adalah $\dots$",OSN_Regional_2020_9,,
+189,OSN,Regional,2020,10,Suatu komite yang terdiri dari beberapa anggota hendap menghadiri 40 rapat. Diketahui bahwa setiap rapat dihadiri tepat 10 anggota komite dan setiap dua anggota menghadiri rapat bersama paling banyak satu kali. Banyaknya anggota komite terkeci yang mungkin adalah $\dots$,OSN_Regional_2020_10,,
+190,OSN,Regional,2020,11,"Diberikan segitiga $ABC$ dengan $\angle ACB = 48^\circ$. Garis bagi $\angle BAC$ memotong sisi $BC$ dan lingkaran luar $ABC$ berturut-turut di titik $D$ dan $E$. Jika  $AC = AB+DE$, maka $\angle ABC = \dots$",OSN_Regional_2020_11,,
+191,OSN,Regional,2020,12,"Misalkan $p$ suatu bilangan prima sehingga terdapat pasangan bilangan asli $(m,n)$ dengan  $n > 1$ yang memenuhi $mn^2+mnp+m+n+p = mn+mp+np+n^2+2020$. Semua nilai $p$ yang mungkin adalah $\dots$",OSN_Regional_2020_12,,
+192,OSN,Regional,2020,13,"Misalkan $P(x)$ suatu polinom sehingga $P(x)+8x=P(x-2)+6x^2$. Jika $P(1)=1$, maka $P(2)=\dots$",OSN_Regional_2020_13,,
+193,OSN,Regional,2020,14,"Banyaknya tripel bilangan bulat $(x,y,z)$ dengan $0 \leq x \leq y \leq z$ yang memenuhi persamaan $x+y+z = 32$ adalah $\dots$",OSN_Regional_2020_14,,
+194,OSN,Regional,2020,15,"Misalkan $ABC$ segitiga dan $P,Q,R$ titik pada sisi $BC,CA,AB$. Jika luas segitiga $ABC$ sama dengan 20 kali luas segitiga $PQR$ dan $\dfrac{AQ}{AC}+\dfrac{BR}{BA}+\dfrac{CP}{CB} = 1$, maka $\left(\dfrac{AQ}{AC}\right)^2+\left(\dfrac{BR}{BA}\right)^2+\left(\dfrac{CP}{CB}\right)^2 = \dots$",OSN_Regional_2020_15,,
+195,OSN,Regional,2020,16,"Kwartet bilangan asli $(a,b,c,d)$ dikatakan <em>keren</em> jika memenuhi $b = a^2+1,c = b^2+1,d = c^2+1$ dan $\tau(a)+\tau(b)+\tau(c)+\tau(d)$ bilangan ganjil. Banyaknya kwarter <em>keren</em> $(a,b,c,d)$ dengan $a,b,c,d < 10^6$ adalah $\dots$
+\\
+Catatan: Untuk bilangan asli $k$, $\tau(k)$ menyatakan banyak faktor positif dari $k$.",OSN_Regional_2020_16,,
+196,OSN,Regional,2020,17,"Misalkan $a,b,c$ bilangan real tak negatif dengan $a+2b+3c = 1$. Nilai maksimum dari $ab+2ac$ adalah $\dots$",OSN_Regional_2020_17,,
+197,OSN,Regional,2020,18,Bilangan asli $n$ terkecil sehingga  $n+3$ dan $2020n+1$ bilangan kuadrat sempurna adalah $\dots$,OSN_Regional_2020_18,,
+198,OSN,Regional,2020,19,"Lima tim bertanding satu sama lain dimana setiap dua tim bertanding tepat sekali. Dalam setiap pertandingan, masing-masing tim memiliki peluang $\dfrac{1}{2}$ untuk menang dan tidak ada pertandingan yang berakhir seri. Peluang  bahwa setiap tim menang minimal sekali dan kalah minimal sekali adalah $\dots$",OSN_Regional_2020_19,,
+199,OSN,Regional,2020,20,"Misalkan $H$ adalah titik tinggi dari segitiga lancip $ABC$ dan $P$ adalah titik tengah $CH$. Jika $AP = 3, BP = 2$ dan $CP = 1$, maka panjang sisi $AB$ adalah $\dots$
+\\
+Catatan: Titik tinggi suatu segitiga adalah perpotongan ketiga garis tinggi dari segitiga tersebut.",OSN_Regional_2020_20,,
+200,OSN,Regional,2021,1,"Misalkan $u_1,u_2,u_3$ barisan aritmetika dengan suku-suku bilangan real positif. Jika $\dfrac{u_1+u_2}{u_3}=\dfrac{11}{21}$, maka nilai $\dfrac{u_2+u_3}{u_1}$ adalah $\dots$",OSN_Regional_2021_1,,
+201,OSN,Regional,2021,2,Koefisien $x^7$ pada penjabaran $(1+x)(2+x^2)(3+x^3)(4+x^4)(5+x^5)$ adalah $\dots$,OSN_Regional_2021_2,,
+202,OSN,Regional,2021,3,Diketahui fungsi $f$ terdefinisi di semua bilangan real selain $0$ dan $1$ memenuhi persamaan $(x+1)f(-x)+\dfrac{1-x}{4x}f\left(\dfrac{1}{x}\right)=\dfrac{100(x^2+4)}{x}$. Nilai dari $f(2)+f(3)+f(4)+\dots+f(400)$ adalah $\dots$,OSN_Regional_2021_3,,
+203,OSN,Regional,2021,4,Diketahui bilangan bulat positif $A$ dan $B$ apabila dibagi 5 berturut-turut bersisa 2 dan 3. Sisa pembagian $A(A+1)+5B$ oleh $25$ adalah $\dots$,OSN_Regional_2021_4,,
+204,OSN,Regional,2021,5,Bilangan asli $n$ dikatakan <em>menarik</em> jika terdapat suku banyak (polinom) dengan koefisien bulat $P(x)$ sehingga $P(7) = 2021$ dan $P(n) = 2045$. Banyaknya bilangan prima menarik adalah $\dots$,OSN_Regional_2021_5,,
+205,OSN,Regional,2021,6,"Pada gambar di bawah ini sebuah persegi panjang dibagi dua menjadi dua buah persegi yang panjang sisinya 6 cm. Luas total dari daerah yang diarsir adalah $\dots cm^2$.
+<img src=""Figure/2021_OSN_Regional_6.PNG"" style=""max-width:100%; width:400px;"">",OSN_Regional_2021_6,2021_OSN_Regional_6.PNG,
+206,OSN,Regional,2021,7,"Pada suatu lingkaran dengan jari-jari $r$, terdapat segiempat talibusur $ABCD$ dengan $AB = 8$ dan $CD = 5$. Sisi $AB$ dan $DC$ diperpanjang dan berpotongan di luar lingkaran di titik $p$. Jika $\angle APD = 60^\circ$ dan $BP = 6$, maka nilai $r^2$ adalah $\dots$",OSN_Regional_2021_7,,
+207,OSN,Regional,2021,8,"Bilangan $1,2,\dots,999$ digit-digitnya disusun membentuk angka baru $m$ dengan menuliskan semua digit bilangan-bilangan tadi dari kiri ke kanan. Jadi $m = 123\dots
+91011\dots999$. Hasil penjumlahan digit ke $2021,2022,2023$ dari $m$ adalah $\dots$.",OSN_Regional_2021_8,,
+208,OSN,Regional,2021,9,Diketahui ada enam pasang suami istri. Dari keenam pasangan tersebut akan dipilih enam orang secara acak. Banyaknya cara untuk memilih enam orang tersebut sehingga paling banyak terdapat sepasang suami istri adalah $\dots$,OSN_Regional_2021_9,,
+209,OSN,Regional,2021,10,"Diberikan segitiga $ABC$ dengan $AB > AC$. Garis bagi sudut $BAC$ memotong sisi $BC$ di titik $D$. Titik $E$ dan $F$ berturut-turut terletak pada sisi $AC$ dan $AB$ sedemikian sehingga $DE$ sejajar $AB$ dan $DF$ sejajar $AC$. Lingkaran luar segitiga $BCE$ memotong sisi $AB$ di titik $K$. Jika luas segitiga $CDE$ adalah 75 dan luas segitiga $DEF$ adalah 85, maka luas segiempat $DEKF$ adalah $\dots$",OSN_Regional_2021_10,,
+210,OSN,Regional,2021,11,Diberikan bilangan asli $a > 1$ dan jumlah semua bilangan riil $x$ yang memenuhi $0 = \floor{x}^2-2ax+a$  adalah $51$. Nilai dari $a$ adalah $\dots$,OSN_Regional_2021_11,,
+211,OSN,Regional,2021,12,"Diberikan $a,b,c$ bilangan riil yang memenuhi $|ax^2+bx+c| \leq 1$ untuk setiap bilangan riil $0 \leq x \leq 1$. Nilai maksimum $23a+22b+21c$ adalah $\dots$",OSN_Regional_2021_12,,
+212,OSN,Regional,2021,13,Dua digit terakhir dari $a^{777}$ adalah 77. Dua digit terakhir dari $a$ adalah $\dots$,OSN_Regional_2021_13,,
+213,OSN,Regional,2021,14,"Diberikan $a_n = n^2+19n+b$. Bilangan ganjil terbesar $b$ sedemikian hingga $FPB(a_n,a_{n+1}) = FPB(a_{n+2},a_{n+1})$ untuk setiap bilangan asli $n$ adalah $\dots$",OSN_Regional_2021_14,,
+214,OSN,Regional,2021,15,"Diberikan segitiga $ABC$ dengan panjang $AB = 6, BC = 7$, dan $CA = 8$. Titik $I$ merupakan perpotongan garis bagi segitiga $ABC$, maka $AI^2$ adalah $\dots$",OSN_Regional_2021_15,,
+215,OSN,Regional,2021,16,"Banyaknya fungsi (pemetaan) dari $A=\{1,2,3,4,5,6\}$ ke $B=\{7,8,9,10\}$ dengan syarat $7$ dan $8$ mempunyai prapeta, yaitu ada $x$ dan $y$ di $A$ sehinggga $f(x)=7$ dan $f(y)=8$ adalah $\dots$",OSN_Regional_2021_16,,
+216,OSN,Regional,2021,17,"Suatu barisan ternary (terdiri dari 0, 1, atau 2) dengan 15 unsur dan lima angka 0 serta diantara angka 0 terdapat setidaknya dua bilangan lain. Banyaknya barisan ternary yang memenuhi adalah $\dots$",OSN_Regional_2021_17,,
+217,OSN,Regional,2021,18,"Banyaknya fungsi (pemetaan) dari $A = \{1,2,3,4,5\}$ ke  $B = \{6,7,8,9,10\}$ dengan 9 dan 10 memiliki prapeta (ada $x$ dan $y$ sehingga $f(x) = 9$ dan $f(y) = 10$ adalah $\dots$",OSN_Regional_2021_18,,
+218,OSN,Regional,2021,19,Sebuah papan catur berukuran $101 \times 21$ akan dipasangi beberapa ubin berukuran $3 \times 1$. Berapa ubin terbanyak yang bisa dipasang pada papan sehingga tidak ada dua ubin yang bertumpuk atau bersentuhan (bersentuhan pada titik sudut ubin juga tidak diperbolehkan) ?.,OSN_Regional_2021_19,,
+219,OSN,Regional,2021,20,"Diberikan segitiga siku-siku $ABC$ dengan $\angle C = 90^\circ$. Dibuat setengah lingkaran $\omega_1$ dengan titik pusat terletak pada $BC$ sedemikian hingga $\omega_1$ menyinggung $AC$ dan $AB$. Titik $D$ dan $E$ terletak pada $AB$ dan $AC$ sedemikian hingga $DE$ sejajar dengan $BC$. Dibuat setengah lingkaran $\omega_2$ dengan titik pusat terletak pada $AE$ sedemikian hingga $\omega_2$ menyinggung $AD$ dan $DE$. Dibuat setengah lingkaran $\omega_3$ dengan titik pusat terletak pada $CE$ sedemikian hingga $\omega_3$ menyinggung $DE$ dan $\omega_1$. Jika $2AC+5BC = 5AB$ dan perbandingan panjang jari-jari $\omega_2$ dan $\omega_3$ dapat dinyatakan dalam $k:25$, nilai dari $k$ adalah $\dots$
+<img src=""Figure/2021_OSN_Regional_20.PNG"" style=""max-width:100%; width:400px;"">",OSN_Regional_2021_20,2021_OSN_Regional_20.PNG,
+220,OSN,Regional,2022,1,"Misalkan $f(x)=a^2x+200$. Jika $f(20)+f^{-1}(22)=f^{-1}(20)+f(22)$, maka $f(1)=\dots$",OSN_Regional_2022_1,,
+221,OSN,Regional,2022,2,Banyaknya bilangan bulat dari 1001 sampai dengan 2022 yang habis dibagi 12 atau 18 adalah $\dots$,OSN_Regional_2022_2,,
+222,OSN,Regional,2022,3,"Diberikan segitiga $ABC$ siku-siku di sudut $B$. Titik $D$ berada pada sisi $AB$ dan titik $E$ berada pada sisi $AC$. Diketahui bahwa $DE$ sejajar dengan $BC$. Jika $AD=18$, $DB=3$, dan $BC=28$, maka panjang $AE=\dots$",OSN_Regional_2022_3,,
+223,OSN,Regional,2022,4,"Banyaknya pasangan bilangan bulat $(x,y)$ yang memenuhi persamaan $$|x|+|y|+|x+y|=22$$ adalah $\dots$",OSN_Regional_2022_4,,
+224,OSN,Regional,2022,5,"Jika sisa pembagian $$x^{2023}+x^{1012}+x^{506}+x^{253}+x^{127}$$ oleh $x^2-1$ adalah $Ax+B$, maka nilai dari $3A+4B=\dots$",OSN_Regional_2022_5,,
+225,OSN,Regional,2022,6,"Sebuah papan catur persegi panjang berukuran $3\times20$ akan ditutupi dengan 20 trimino seperti pada gambar di bawah ini sehingga seluruh papan catur tertutupi oleh seluruh tromino dan tidak ada tromino yang tumpang tindih. Banyaknya cara untuk melakukan hal tersebut adalah $\dots$
+
+<img src=""Figure/2022_OSN_Regional_6.jpg"" style=""max-width:100%; width:400px;"">",OSN_Regional_2022_6,2022_OSN_Regional_6.jpg,
+226,OSN,Regional,2022,7,"Diberikan segitiga $ABC$ seperti pada gambar berikut.
+<img src=""Figure/2022_OSN_Regional_7.png"" style=""max-width:100%; width:400px;"">
+Diketahui $AB=\dfrac32BC$ dan $BD=CD$. Jika luas segitiga $DEC$ adalah 13, maka luas segitiga $AFE$ adalah $\dots$",OSN_Regional_2022_7,2022_OSN_Regional_7.png,
+227,OSN,Regional,2022,8,"Untuk setiap bilangan asli $n$, misalkan $S(n)$ menyatakan hasil penjumlahan semua digit $n$. Diberika barisan $(a_n)$ dengan $a_1=4$ dan $a_n=(S(a_{n-1}))^2-1$ untuk $n\geq 2$. Sisa pembagian $a_1+a_2+a_3+\dots+a_{2022}$ oleh 21 adalah $\dots$",OSN_Regional_2022_8,,
+228,OSN,Regional,2022,9,"Misalkan $x$ dan $y$ bilangan real dengan $x>y>0$. Jika $x+200\leq \sqrt{x^2-y^2+400(x+y)}$, maka $y=\dots$",OSN_Regional_2022_9,,
+229,OSN,Regional,2022,10,"Jika bilangan asli $x$ sehingga $x^2 + 110x$ adalah bilangan pangkat 3 dari suatu bilangan prima, maka nilai  $x=\dots$",OSN_Regional_2022_10,,
+230,OSN,Regional,2022,11,"Di dalam suatu ruangan terdapat 12 kursi yang disusun dalam tiga baris, sehingga baris pertama memuat 3 kursi, baris kedua memuat 4 kursi, dan baris terakhir memuat 5 kursi. Dua belas siswa termasuk Azka dan Budi akan menempati kursi-kursi tersebut. Jika banyaknya care menempati sehingga Azka dan Budi di baris pertama adalah $A$, maka $\dfrac{A}{9!}=\dots$",OSN_Regional_2022_11,,
+231,OSN,Regional,2022,12,"Diberikan segitiga siku-siku $ABC$ dengan luas 112. Misalkan $R$ dan $r$ berturut-turut menyatakan panjang jari-jari lingkaran luar dan lingkaran dalam segitiga $ABC$. Jika  $R+r = 16$, maka panjang sisi miring segitiga $ABC$ adalah $\dots$",OSN_Regional_2022_12,,
+232,OSN,Regional,2022,13,"Jika
+\[
+\sum_{k=1}^\infty \frac{2k+B}{3^{k+1}} = 10,
+\]
+maka $B = \dots$",OSN_Regional_2022_13,,
+233,OSN,Regional,2022,14,"Banyaknya 7-tupel $(w_1,w_2,w_3,\dots,w_7)$ yang memenuhi persamaan $$w_1+w_2+w_3+\dots +w_7=148$$ dengan $20\leq w_1,w_2,w_3,\dots,w_7\leq 22$ adalah $\dots$",OSN_Regional_2022_14,,
+234,OSN,Regional,2022,15,"Diberikan segitiga siku-siku sama kaki $ABC$ dengan $BC = AB$. Misalkan $L$ titik tengah $BC$ dan $P$ pada sisi $AC$ sehingga $BP$ tegak lurus $AL$. Jika $CP = 30\sqrt{2}$, maka panjang $AB$ adalah $\dots$",OSN_Regional_2022_15,,
+235,OSN,Regional,2022,16,"Misalkan $m,n$ bilangan asli. Jika $FPB(m,n) = 7$ dan $FPB(2m,3n) = 42$, maka $FPB(21m,14n)$ adalah $\dots$",OSN_Regional_2022_16,,
+236,OSN,Regional,2022,17,"Diketahui $a,b,c,d$ bilangan real positif memenuhi $a > c,d >b$ dan $4a^2+4b^2 = 4c^2+4d^2 = 5ac+5bd$. Nilai dari $20\dfrac{ab+cd}{ad+bc} = \dots$",OSN_Regional_2022_17,,
+237,OSN,Regional,2022,18,"Misalkan $A$ adalah himpunan semua bilangan 8 digit yang digit-digitnya terdiri dari $1, 2,$ atau $3$ dan memuat paling sedikit satu digit $2$. Banyaknya bilangan $N$ di $A$ sehingga setiap digit $2$ di $N$ diapit oleh digit $1$ dan $3$ adalah $\dots$",OSN_Regional_2022_18,,
+238,OSN,Regional,2022,19,"Diberikan belah ketupat $ABCD$ dan $E$ titik di dalamnya. sehingga $AE = BE$. Jika $\angle BAE = 12^\circ$ dan $\angle DAE = 72^\circ$, maka $\angle CDE = \dots^\circ$.",OSN_Regional_2022_19,,
+239,OSN,Regional,2022,20,"Diketahui $x,y,z$ bilangan bulat yang memenuhi $x^2y+y^2z+z^2x-23 = xy^2+yz^2+zx^2-25 = 3xyz$. Nilai terbesar dari $x+y+z$ adalah $\dots$",OSN_Regional_2022_20,,
+240,OSN,Regional,2023,1,Hasil penjumlahan semua solusi persamaan $|x-|2x+6||=99$ adalah $\dots$,OSN_Regional_2023_1,,
+241,OSN,Regional,2023,2,"Di dalam suatu laci, terdapat tujuh pasang kaos kaki yang setiap pasangnya berbeda dengan pasangan lainnya. Diambil lima kaos kaki sekaligus secara acak. Banyaknya cara pengambilan sehingga di antara yang terambil terdapat tepat sepasang kaos kaki yang cocok (berpasangan) adalah $\dots$",OSN_Regional_2023_2,,
+242,OSN,Regional,2023,3,"Diberikan trapesium $ABCD$ dengan $AB=14$, $CD=19$, $AB$ sejajar dengan $CD$ dan kedua sudut $\angle ADC$ dan $\angle BCD$ lancip. Misalkan $P$ dan $Q$ titik yang terletak pada sisi $CD$ sehingga $AD=AP$ dan $BC=BQ$. Panjang $PQ=\dots$
+
+<img src=""Figure/2023_OSN_Regional_3.png"" style=""max-width:100%; width:400px;"">",OSN_Regional_2023_3,2023_OSN_Regional_3.png,
+243,OSN,Regional,2023,4,Suatu bilangan 4 digit $\overline{7ab9}$ merupakan suatu bilangan kuadrat. Nilai $a+b=\dots$,OSN_Regional_2023_4,,
+244,OSN,Regional,2023,5,"Diberikan fungsi kuadrat $f(x)=ax^2+bx+c$ yang memenuhi $f(5)=25$ dan $f(6)=36$. Jika $a\neq 1$, maka nilai dari $\dfrac{c-b}{a-1}$ adalah $\dots$",OSN_Regional_2023_5,,
+245,OSN,Regional,2023,6,"Dua tim $A$ dan $B$ bertanding sepak bola sebanyak 15 kali. Pada setiap pertandingan, tim yang berhasil mencetak 4 gol pertama menjadi pemenang dan tidak ada pertandingan yang berakhir seri. Selama 15 pertandingan tersebut, tim $A$ memenangkan pertandingan lebih banyak dibandingkan tim $B$, namun banyak gol yang dicetak tim $B$ lebih banyak dibandingkan tim $A$. Selisih total gol terbesar yang mungkin dicetak kedua tim tersebut adalah $\dots$",OSN_Regional_2023_6,,
+246,OSN,Regional,2023,7,"Diberikan segitiga $ABC$ dengan $AB= 12$ dan $AC = 10$ dan $D$ suatu titik pada sisi $BC$. Misalkan $F$ menyatakan titik-titik berat segitiga $ABD$ dan $ACD$. Jika luas segitiga $DEF$ adalah 4, maka panjang sisi $BC$ adalah $\sqrt{n}$ dengan $n = \dots$",OSN_Regional_2023_7,,
+247,OSN,Regional,2023,8,Sisa pembagian $5^{2022}+11^{2022}$ oleh $64$ adalah $\dots$,OSN_Regional_2023_8,,
+248,OSN,Regional,2023,9,"Diberikan suku banyak $P(x)$ dengan koefisien bulat. Jika $P(r_1)=P(r_2)=200$ dengan $r_1,r_2$ merupakan akar-akar persamaan $x^2+x-23=0$ maka sisa pembagian $P(1)$ oleh $21$ adalah $\dots$",OSN_Regional_2023_9,,
+249,OSN,Regional,2023,10,Banyaknya bilangan 4 digit yang habis dibagi 3 dan memuat angka 6 adalah $\dots$,OSN_Regional_2023_10,,
+250,OSN,Regional,2023,11,"Misalkan $ABCD$ segiempat tali busur dengan lingkaran luar $\omega$ dan $BC = CD$. Diagonal $AC$  dan $BD$ berpotongan di titik $E$ dan diketahui bahwa $BE=7$ dan $DE=5$. Jika garis singgung $\omega$ di titik $A$ memotong perpanjangan diagonal $BD$ di titik $P$, maka $\dfrac{PD}{DB}$ dapat dituliskan dalam bentuk $\dfrac{m}{n}$ dengan $m,n$ bilangan asli yang relatif prima. Nilai dari $m+n$ adalah $\dots$",OSN_Regional_2023_11,,
+251,OSN,Regional,2023,12,"Jika bilangan asli $x$ dan $y$ memenuhi persamaan $x(x-y) = 5y-6$, maka $x+y = \dots$",OSN_Regional_2023_12,,
+252,OSN,Regional,2023,13,"Misalkan $a_1,a_2,a_3,\dots$ suatu barisan bialnagn yang memenuhi persamaan $a_{n+2}-a_{n+1}+a_n=\dfrac{n+1}{6}$ untuk setiap bilangan asli $n$. Jika $a_1=1$ dan $a_2=2$, maka $a_{2023}=\dots$",OSN_Regional_2023_13,,
+253,OSN,Regional,2023,14,"Diberikan $S=\{a,b,c,d,e,f\}$. Akan dipilih dua subhimpunan dari $S$ yang gabungannya adalah $S$. Subhimpunan yang dipilih tidak harus berbeda, misalkan keduanya boleh sama dengan $S$. Urutan dari subhimpunan yang dipilih <strong>tidak diperhatikan</strong>, sebagai contoh pasangan subhimpunan $(\{a,b,c\},\{c,d,e,f\})$ sama dengan $(\{c,d,e,f\},\{a,b,c\})$. Banyaknya cara melakukan pemilihan adalah $\dots$",OSN_Regional_2023_14,,
+254,OSN,Regional,2023,15,"Diberikan lingkaran $\Omega$ dan $AB$ suatu tali busur dari $\Omega$. Lingkaran $\omega_1$ menyinggung $\Omega$ secara internal dan menyinggung $AB$ pada titik tengahnya. Lingkaran $\omega_2$ menyinggung $\Omega$ secara internal, menyinggung $\omega_1$ secara eksternal, dan menyinggung $AB$.
+<img src=""Figure/2023_OSN_Regional_15.PNG"" style=""max-width:100%; width:400px;"">
+Jika jari-jari $\omega_1$ adalah 35 dan jari-jari $\omega_2$ adalah 7, maka panjang $AB$ adalah $\dots$",OSN_Regional_2023_15,2023_OSN_Regional_15.PNG,
+255,OSN,Regional,2023,16,"Misalkan $n=2^a3^b$ dengan $a$ dan $b$ bilangan asli. Jika hasil kali semua faktor positif dari $n$ adalah $12^{90}$, maka nilai $ab=\dots$",OSN_Regional_2023_16,,
+256,OSN,Regional,2023,17,"Nilai minimum dari
+\[
+\frac{(x+y)^2}{\sqrt{x^2-16}+\sqrt{y^2-25}}
+\]
+adalah $\dots$",OSN_Regional_2023_17,,
+257,OSN,Regional,2023,18,"Diberikan 100 titik seperti pada gambar di bawah ini.
+<img src=""Figure/2023_OSN_Regional_18.PNG"" style=""max-width:100%; width:400px;"">
+Banyaknya persegi yang semua titik sudutnya adalah empat titik di antara titik-titik pada gambar adalah $\dots$",OSN_Regional_2023_18,2023_OSN_Regional_18.PNG,
+258,OSN,Regional,2023,19,"Diberikan segitiga $ABC$. Misalkan $D,E,F$ masing-masing adalah titik pada sisi $BC,CA,AB$ sehingga $AD,BE,CF$ berpotongan di satu titik. Diketahui bahwa $\angle EDF = 54^\circ$. Jika $\angle ADB= 90^\circ$ dan $AF = FB$, maka besar sudut $\angle ABC = \dots$",OSN_Regional_2023_19,,
+259,OSN,Regional,2023,20,"Misalkan $p$ dan $n$ dua bilangan asli dengan $p$ bilangan prima sedemikian sehingga $p$ membagi $n^2 + 4$ dan $n$ membagi $p^2+4$. Jika  $p< 200$, maka nilai terbesar yang mungkin dari $n$ adalah $\dots$",OSN_Regional_2023_20,,
+260,OSN,Regional,2024,1,"Sebuah persegi dibagi menjadi 2 persegi panjang, seperti terlihat pada gambar. Diketatahui hasil penjumlahan kedua keliling persegi panjang tersebut adalah $60$, maka luas persegi adalah $\dots$
+
+<img src=""Figure/2024_OSN_Regional_1.png"" style=""max-width:100%; width:400px;"">",OSN_Regional_2024_1,2024_OSN_Regional_1.png,
+261,OSN,Regional,2024,2,"Diketahui ada $6$ pilihan jalan yang dapat digunakan untuk berpergian dari kota <em>A</em> ke kota <em>B</em> dan ada $8$ pilihan jalan yang dapat digunakan untuk berpergian dari kota <em>B</em> ke kota <em>C</em>. Jika seseorang akan berpergian dari kota <em>A</em> ke kota <em>C</em> melalui kota <em>B</em> dan pulang kembali lagi ke kota <em>A</em> melalui jalan-jalan yang berbeda dari ketika saat pergi, banyaknya cara memilih jalan yang dapat dilalui adalah $\dots$",OSN_Regional_2024_2,,
+262,OSN,Regional,2024,3,"Pada papan tertulis $90$ bilangan asli $1,1,\dots,1,a,b$ (ada sebanyak $88$ bilangan $1$). Hasil penjumlahan seluruh bilangan di papan adalah $A$ dan demikian juga hasil perkalian semua bilangan di papan adalah $A$. Nilai $A$ adalah $\dots$",OSN_Regional_2024_3,,
+263,OSN,Regional,2024,4,"Misalkan $a,b$ bilangan bulat positif yang tidak memiliki faktor persekutuan positif selain $1$. Jika berlaku $\dfrac{1+2+3+\dots+104}{3+4+5+\dots+106}=\dfrac{a}{b}$, maka nilai $a+b$ adalah $\dots$",OSN_Regional_2024_4,,
+264,OSN,Regional,2024,5,"Bilangan OSK adalah bilangan $4$ angka yang tidak dimulai dengan angka $0$ dan hasil penjumlahan semua digitnya adalah $8$. Sebagai contoh, $2024$ merupakan bilangan OSK. Banyaknya bilangan OSK adalah $\dots$",OSN_Regional_2024_5,,
+265,OSN,Regional,2024,6,"Misalkan $u_1,u_2,u_3,\dots$ suatu barisan geometri dengan $u_1>u_2$. Jika $u_2=8$ dan $u_5+u_7=\dfrac{17u_6}{4}$. NIlai dari $u_1$ adalah $\dots$",OSN_Regional_2024_6,,
+266,OSN,Regional,2024,7,"Diberikan segiempat $ABCD$ dengan luas segitiga $AED$ sama degnan luas segitiga $BEC$. Jika $AB =50, AE =45$, dan $AC =108$, maka $CD$ adalah $\dots$
+
+<img src=""Figure/2024_OSN_Regional_7.PNG"" style=""max-width:100%; width:400px;"">",OSN_Regional_2024_7,2024_OSN_Regional_7.PNG,
+267,OSN,Regional,2024,8,"Banyaknya bilangan dua digit $\overline{ab}$ dengan $a,b\neq 0$ sehingga $\overline{ab}+\overline{ba}$ merupakan kelipatan $66$ adalah $\dots$",OSN_Regional_2024_8,,
+268,OSN,Regional,2024,9,Misalkan $k$ adalah bilangan bulat positif terkecil kelipatan $2034$ yang memiliki $28$ faktor positif. Sisa hasil bagi $k$ oleh $100$ adalah $\dots$,OSN_Regional_2024_9,,
+269,OSN,Regional,2024,10,"Misalkan $x,y$ bilangan real positif dengan $x > y$. Jika diketahui bahwa $x^2 + y^2 = \left( \dfrac{545}{272}\right)xy$, maka $\dfrac{x+y}{x-y}$ adalah $\dots$",OSN_Regional_2024_10,,
+270,OSN,Regional,2024,11,"Suatu segienam beraturan disisipkan kedalam sebuah persegi panjang seperti terlihat pada gambar
+dibawah ini. Jika luas $A$ dan $B$ berturut-turut adalah 24 dan 23, maka luas segienam beraturan adalah $\dots$
+
+<img src=""Figure/2024_OSN_Regional_11.PNG"" style=""max-width:100%; width:400px;"">",OSN_Regional_2024_11,2024_OSN_Regional_11.PNG,
+271,OSN,Regional,2024,12,"Banyak himpunan bagian <em>A</em> dari $\{24,25,26,\dots,35\}$ sehingga hasil penjumlahan unsur terbesar dan terkecil dari <em>A</em> sama dengan $59$ adalah $\dots$",OSN_Regional_2024_12,,
+272,OSN,Regional,2024,13,"Untuk setiap bilangan asli $n$, misalkan $f(n)$ menyatakan faktor ganjil terbesar dari
+$n$ dan $p(n) = f(n) +f(n+1)+···+f(2n)$. Jika $p(n) = 8145$, maka $n$ adalah $\dots$",OSN_Regional_2024_13,,
+273,OSN,Regional,2024,14,"Diberikan suku banyak $P(x) = x^3+Dx^2+Ex+1$ dan $P(-1) = 4$. Jika $a,b,c$ merupakan akar-akar
+dari $P(x) = 0$ dan memenuhi $(a^2 -bc)(b^2 -ca)(c^2 -ab) = 40$. Maka nilai dari $(D + E)^2$ adalah $\dots$",OSN_Regional_2024_14,,
+274,OSN,Regional,2024,15,"Banyaknya barisan bilangan bulat positif dengan enam suku $a_1,a_2,a_3,a_4,a_5,a_6$ yang mungkin sehingga $1\leq a_1,a_2,a_3,a_4,a_5,a_6\leq 4 $ dan tidak ada dua suku berurutan yang jumlahnya $4$ adalah $\dots$",OSN_Regional_2024_15,,
+275,OSN,Regional,2024,16,"Diberikan sebuah segitiga $ABC$ yang siku-siku pada sudut $B$. Lingkaran $\omega$ merupakan lingkaran dalam segitiga $ABC$ yang menyinggung sisi $BC$ pada titik $D$. Titik $E$ terletak pada $\omega$ sehingga $PE$ merupakan diameter dari $\omega$. Perpanjangan garis $AE$ memotong $\omega$ kedua kalinya pada titik $F$, dan memotong sisi $BC$ pada titik $G$. Apabila $EF = 3$, dan $FG = 4$, maka panjang $AE$ dapat dinyatakan dalam bentuk $\dfrac{p\sqrt{q}}{r}$ , dengan $p,q,r$ merupakan bilangan bulat positif, satu-satunya faktor kuadrat dari $q$ adalah 1, dan $FPB(p,r)=1$. Nilai dari $p + q +r$ adalah $\dots$",OSN_Regional_2024_16,,
+276,OSN,Regional,2024,17,"Diketahui $a,b,c$ bilangan real positif yang memenuhi $a+b+c = \frac{32}{a}+\frac{32}{b}+\frac{32}{c} = 24$. Nilai terbesar yang mungkin dicapai oleh $\frac{a^2+32}{a}$ adalah $\dots$",OSN_Regional_2024_17,,
+277,OSN,Regional,2024,18,"Untuk setiap bilangan real $x$, notasi $\floor{x}$ menyatakan bilangan bulat terbesar yang kurang dari atau sama dengan x. Sebagai contoh $\floor{1,1} = 1,\floor{3} = 3$, dan sebagainya. Jika ada tepat sebanyak 1000 bilangan berbeda pada barisan
+\[
+\floor{\frac{1^2}{2024}},\floor{\frac{2^2}{2024}}, \dots, \floor{\frac{n^2}{2024}}
+\]
+maka $n$ adalah $\dots$",OSN_Regional_2024_18,,
+278,OSN,Regional,2024,19,"Banyaknya pemetaan $f:\{1,2,3,4,5\}\to\{1,2,3,4,5\}$ sehingga $f(f(x))\in\{2,4\}$ untuk setiap $x\in \{1,2,3,4,5\}$ adalah $\dots$",OSN_Regional_2024_19,,
+279,OSN,Regional,2024,20,"Pada $\triangle ABC$, titik $D$ dan $E$ terletak pada sisi $BC$ sehinggga $B, D, E, C$ terletak pada urutan tersebut. Diketahui bahwa $BD : DE : EC = 4 : 2 : 5$ dan garis-garis $AD$ dan $AF$ membagi tiga $\angle BAC$ sama besar. Garis $AD$ dan $AE$ masing-masing memotong lingkaran luar $\triangle ABC$ pada titik $F$ dan $G$. Nilai dari $\dfrac{DF}{EG}$ dapat dinyatakan dalam bentuk $\sqrt{\dfrac{p}{q}}$ untuk suatu bilangan bulat positif $p$ dan $q$ yang saling relatif prima, nilai dari $p + q$ adalah $\dots$",OSN_Regional_2024_20,,
+280,OSN,Regional,2025,1,"Banyaknya solusi persamaan $n^2 + 4n + 3 = 16m$ dengan $m,n$ bilangan asli dan $1 \le n \le 110$ adalah $\dots$",OSN_Regional_2025_1,,
+281,OSN,Regional,2025,2,Bilangan bulat positif terkecil $n$ sehingga $n!$ habis dibagi oleh 1430 adalah $\dots$,OSN_Regional_2025_2,,
+282,OSN,Regional,2025,3,"Diberikan trapesium $ABCD$ dengan $AB \parallel DC$ dan sudut $ADC = 90^\circ$. Misalkan $E$ titik pada $AD$ sehingga $BE = CE$. Jika $AB = 22$, $CD = 27$, dan $BC = 25\sqrt{2}$, maka panjang $AE$ adalah \dots
+
+<img src=""Figure/2025_OSN_Regional_3.PNG"" style=""max-width:100%; width:400px;"">",OSN_Regional_2025_3,2025_OSN_Regional_3.PNG,
+283,OSN,Regional,2025,4,"Banyaknya himpunan bagian dari $\{1,2,3,4,5,6,7\}$ yang memuat himpunan $\{1,2,3,4,5\}$ atau $\{4,5,6\}$ adalah $\dots$",OSN_Regional_2025_4,,
+284,OSN,Regional,2025,5,Afif menuliskan sembilan bilangan bulat positif berbeda yang lebih kecil dari 18. Ia memastikan penjumlahan dua bilangan mana pun tidak pernah sama dengan 18. Bilangan positif yang pasti ditulis Afif adalah $\dots$,OSN_Regional_2025_5,,
+285,OSN,Regional,2025,6,Diketahui bahwa koefisien suku $x^2$ dari pengembangan $(x+3)^n$ adalah $81k$ untuk suatu bilangan asli $k$. Bilangan asli $k$ terkecil yang mungkin memenuhi syarat tersebut adalah $\dots$,OSN_Regional_2025_6,,
+286,OSN,Regional,2025,7,"Diketahui dua segitiga sama sisi $ABD$ dan $BCE$ dengan panjang sisi yang sama dan ketiga titik $A, B, C$ terletak pada satu garis. Titik $P$ dan $Q$ masing-masing adalah titik pusat lingkaran luar segitiga $ABD$ dan segitiga $BCE$. Jika luas lingkaran luar segitiga $BCP$ adalah 126, maka luas lingkaran luar segitiga $BPQ$ adalah \dots
+
+<img src=""Figure/2025_OSN_Regional_7.PNG"" style=""max-width:100%; width:400px;"">",OSN_Regional_2025_7,2025_OSN_Regional_7.PNG,
+287,OSN,Regional,2025,8,"Diberikan persegi panjang $ABCD$ dengan $AB = 68$ dan $AD = 27$. Misalkan $E,F$ titik pada sisi $AB$ dan $G,H$ pada sisi $CD$ sedemikian sehingga $AF = BE = CH = DG = 54$. Luas daerah yang dibatasi garis $AG, BH, CE, DF$ adalah \dots
+
+<img src=""Figure/2025_OSN_Regional_8.PNG"" style=""max-width:100%; width:400px;"">",OSN_Regional_2025_8,2025_OSN_Regional_8.PNG,
+288,OSN,Regional,2025,9,Suatu polinomial $p(x)$ memenuhi persamaan $p(5^b + 1) = 5^{5b} + 4$ untuk setiap bilangan bulat positif $b$. Nilai $p(3)$ adalah $\dots$,OSN_Regional_2025_9,,
+289,OSN,Regional,2025,10,Banyaknya bilangan bulat $m$ sehingga persamaan kuadrat $x^2 + mx + 37 = m$ tidak mempunyai akar real adalah $\dots$,OSN_Regional_2025_10,,
+290,OSN,Regional,2025,11,"Bilangan bulat terbesar $n$, sedemikian sehingga $\mathrm{FPB}(1+2+\dots+n,\, 1^2 + 2^2 + \dots + n^2) < 100$ adalah $\dots$",OSN_Regional_2025_11,,
+291,OSN,Regional,2025,12,"Diberikan lingkaran yang berpusat di titik $O$ dan berjari-jari 65. Misalkan $A, B, C$ tiga titik berbeda pada lingkaran tersebut dan $D, E, F$ berturut-turut merupakan titik tengah $BC, AC, AB$. Jika dua ruas garis di antara $OD, OE, OF$ memiliki panjang 25 dan 39, maka panjang ruas garis yang ketiga adalah $\dots$",OSN_Regional_2025_12,,
+292,OSN,Regional,2025,13,"Dari digit-digit dari bilangan $6,7,8,\dots,n$ dituliskan dari kiri ke kanan (tanpa spasi) membentuk suatu bilangan baru $K$, nilai $n$ terkecil sehingga $K$ habis dibagi 7 adalah $\dots$",OSN_Regional_2025_13,,
+293,OSN,Regional,2025,14,"Misalkan $x,y,z$ bilangan real positif dengan
+\[
+\frac{1}{1+x+y} + \frac{1}{1+y+z} + \frac{1}{1+z+x} = \frac14.
+\]
+Nilai minimum $3x + 5y + 6z$ adalah $A\sqrt{2} + B$, dengan $A,B$ bilangan asli. Nilai $A+B$ adalah $\dots$",OSN_Regional_2025_14,,
+294,OSN,Regional,2025,15,"Banyaknya bilangan bulat berbeda di barisan bilangan berikut
+\[
+\left\lfloor \frac{579}{1} \right\rfloor,\,
+\left\lfloor \frac{579}{3} \right\rfloor,\,
+\left\lfloor \frac{579}{5} \right\rfloor,\,
+\dots,\,
+\left\lfloor \frac{579}{579} \right\rfloor
+\]
+adalah $\dots$",OSN_Regional_2025_15,,
+295,OSN,Regional,2025,16,"Diberikan persegi panjang $ABCD$ dan $E$ suatu titik pada sisi $AB$. Suatu benda bergerak dari titik $A$ dan berturut-turut menyentuh sisi $BC, CD, AC$ dan sampai pada titik $E$. Jika diketahui bahwa $AB = 60$, $AD = 85$ dan jarak terpendek yang ditempuh adalah $170\sqrt{2}$, maka panjang $AE$ adalah \dots
+
+<img src=""Figure/2025_OSN_Regional_16.PNG"" style=""max-width:100%; width:400px;"">",OSN_Regional_2025_16,2025_OSN_Regional_16.PNG,
+296,OSN,Regional,2025,17,"Banyak pemetaan $f : \{1,2,3,4,5\} \to \{1,2,3,4,5\}$ yang memenuhi persamaan $f(f(x)) = f(x)$ untuk setiap $x \in \{1,2,3,4,5\}$ adalah $\dots$",OSN_Regional_2025_17,,
+297,OSN,Regional,2025,18,"Suatu percobaan mengundi suatu dadu beberapa kali, dan percobaan berhenti setelah muncul mata dadu lebih kecil dari 5 sebanyak dua kali. Banyak kemungkinan percobaan berhenti pada pengundian ke-5 atau sebelumnya adalah $\dots$",OSN_Regional_2025_18,,
+298,OSN,Regional,2025,19,"Hasil penjumlahan semua bilangan asli $n$ sehingga sistem persamaan
+\[
+\begin{cases}
+nx + y = 85 \\
+2x + (n+1)y = 30
+\end{cases}
+\]
+memiliki solusi bilangan bulat $(x,y)$ adalah $\dots$",OSN_Regional_2025_19,,
+299,OSN,Regional,2025,20,"Sebuah tabel terdiri atas dua baris dan 29 kolom. Tiap petak dicat hitam atau putih dengan aturan:
+<ul>
+<li>[(i)] Dua kolom bersebelahan tidak boleh memiliki jumlah petak hitam yang sama.
+</li><li>[(ii)] Dua bujur sangkar $2\times 2$ yang tumpang tindih pada satu kolom tidak boleh memiliki jumlah petak hitam yang sama.
+</li></ul>
+Banyaknya cara pewarnaan papan yang memenuhi aturan di atas adalah $\dots$",OSN_Regional_2025_20,,
+300,OSN,Regional,2026,1,"Diberikan $x,y,z$ bilangan real yang memenuhi sistem persamaan
+\[
+x-y=1,\qquad
+y-z=2,\qquad
+xyz=77.
+\]
+Nilai dari
+\[
+\frac{x}{yz}+\frac{y}{xz}+\frac{z}{xy}
+-\left(\frac1x+\frac1y+\frac1z\right)
+\]
+adalah $\ldots$",OSN_Regional_2026_1,,
+301,OSN,Regional,2026,2,"Andi, Budi, dan Cici melakukan suatu permainan dengan melempar koin. Urutan pelemparan dimulai dari Andi, kemudian Budi, dan dilanjutkan Cici. Pemain pertama yang mendapatkan sisi Gambar dinyatakan pemenang. Ketika ketiga pemain berturut-turut mendapatkan sisi Angka, maka permainan dilanjutkan kembali dengan urutan pelemparan yang sama. Jika peluang Andi menang adalah $\frac{a}{n}$, peluang Budi menang adalah $\frac{b}{n}$, dan peluang Cici menang adalah $\frac{c}{n}$, dengan $a,b,c,n$ adalah bilangan bulat positif yang relatif prima, maka hasil dari $c+n$ adalah $\ldots$",OSN_Regional_2026_2,,
+302,OSN,Regional,2026,3,"Suku banyak
+\[
+P(x)=x^3+ax^2+bx+c
+\]
+habis dibagi oleh suku banyak
+\[
+Q(x)=x^2+\frac1{40}.
+\]
+Nilai dari $\frac{a}{c}$ adalah $\ldots$",OSN_Regional_2026_3,,
+303,OSN,Regional,2026,4,"Diketahui luas sebuah segitiga siku-siku adalah $45$. Jika jari-jari lingkaran luar segitiga tersebut adalah $8$, jari-jari lingkaran dalam segitiga adalah $r$, dan $r$ dapat dinyatakan dalam bentuk $\sqrt{m}+n$ dengan $m,n\in\mathbb Z$, maka nilai dari $m+n$ adalah $\ldots$",OSN_Regional_2026_4,,
+304,OSN,Regional,2026,5,"Banyak bilangan asli dari $456,457,\ldots,2026$ yang digit-digitnya saling berbeda dan jika dibaca dari kiri ke kanan digit-digitnya berada dalam urutan naik (<em>strictly increasing</em>) adalah $\ldots$",OSN_Regional_2026_5,,
+305,OSN,Regional,2026,6,"Diberikan suku barisan $a_n$ sebagai sisa pembagian dari $(a_{n-2}+a_{n-1})$ oleh $3$. Jika diketahui $a_1=0$ dan $a_2=2$, untuk setiap $n\ge3$, maka nilai dari jumlah suku-suku
+\[
+a_1+a_2+a_3+\cdots+a_{2026}
+\]
+adalah $\ldots$",OSN_Regional_2026_6,,
+306,OSN,Regional,2026,7,"Alda mempunyai koper dengan kombinasi kunci yang membentuk sebuah barisan yang terdiri dari $8$ angka pilihan dari himpunan $\{1,2,3,4,5\}$. Ia akan mengatur satu barisan tersebut sehingga koper dapat dibuka. Jika Alda menginginkan barisan kunci tersebut memuat tepat satu angka $1$ dan tepat empat angka $2$, maka banyak variasi susunan kunci koper yang mungkin dibuat adalah $\ldots$",OSN_Regional_2026_7,,
+307,OSN,Regional,2026,8,"Diberikan tiga bilangan prima $p,q,r$ yang memenuhi sistem persamaan
+\[
+p+q+r=26,\qquad
+pq+qr+rp=191.
+\]
+Nilai dari perkalian $pqr$ adalah $\ldots$",OSN_Regional_2026_8,,
+308,OSN,Regional,2026,9,"Pada sebuah konfigurasi geometri, terdapat sebuah lingkaran kecil yang terletak di dalam persegi. Lingkaran kecil tersebut diketahui menyinggung sebuah seperempat lingkaran besar di sisi luar, menyinggung setengah lingkaran di sisi dalam, dan menyinggung salah satu sisi persegi tersebut. Jika panjang sisi persegi adalah $300$ satuan, maka panjang jari-jari dari lingkaran kecil tersebut adalah \ldots
+
+<img src=""Figure/2026_OSN_Regional_9.PNG"" style=""max-width:100%; width:400px;"">",OSN_Regional_2026_9,2026_OSN_Regional_9.PNG,
+309,OSN,Regional,2026,10,"Sebuah fungsi kuadrat
+\[
+f(x)=x^2+px+q^2
+\]
+memiliki akar-akar yang keduanya merupakan bilangan bulat. Jika $p$ dan $q$ adalah bilangan prima, maka nilai dari $p+2q$ adalah $\ldots$",OSN_Regional_2026_10,,
+310,OSN,Regional,2026,11,"Tentukan nilai dari $a+b$ jika dikerjakan dalam bentuk pecahan rasional terbesar kurang dari $100$ berbentuk $\frac{a}{b}$ yang memenuhi persamaan
+\[
+x^2+\lfloor x\rfloor=\lfloor x^2\rfloor+x+\frac{31}{100}.
+\]
+Keterangan: $\lfloor\cdot\rfloor$ menyatakan fungsi bilangan bulat terbesar yang kurang dari atau sama dengan argumennya (\emph{floor function}).",OSN_Regional_2026_11,,
+311,OSN,Regional,2026,12,"Terdapat sebuah persegi panjang yang dibagi menjadi kotak-kotak petak berukuran $2\times3$. Setiap petak akan diwarnai hitam atau putih dengan syarat: setiap kolom wajib memiliki minimal satu petak berwarna hitam, dan setiap baris wajib memiliki minimal satu petak berwarna hitam sekaligus minimal satu petak berwarna putih. Selanjutnya, setiap petak yang berwarna putih akan diisi oleh salah satu angka dari himpunan $\{3,4,5,6,7,8\}$ sedemikian sehingga jumlah total bilangan pada setiap barisnya bernilai tepat sama dengan $8$. Berapa banyak cara pewarnaan dan pengisian yang dapat dilakukan untuk memenuhi prosedur tersebut?",OSN_Regional_2026_12,,
+312,OSN,Regional,2026,13,"Nilai minimum dari bentuk aljabar
+\[
+x+50y+\frac{625}{xy^2}
+\]
+tercapai saat nilai $x=a$ dan $y=b$. Tentukan nilai dari ekspresi
+\[
+a+b+ab.
+\]",OSN_Regional_2026_13,,
+313,OSN,Regional,2026,14,"Terdapat sebuah segitiga sama sisi $ABC$. Titik $M$ dan $N$ terletak pada sisi $BC$ dengan $M\neq N$. Sebuah titik $D$ berada di dalam segitiga $ABC$ sedemikian rupa sehingga segitiga $DMN$ juga membentuk segitiga sama sisi. Garis $BD$ memotong sisi $AC$ di titik $E$, dan garis $CD$ memotong sisi $AB$ di titik $F$. Jika diketahui panjang $MN=3$, $BF=4$, dan $CE=8$, berapakah panjang sisi segitiga $BC$?",OSN_Regional_2026_14,,
+314,OSN,Regional,2026,15,Misalkan $S(n)$ didefinisikan sebagai jumlah dari semua faktor positif dari bilangan $n$. Tentukan jumlah dari semua nilai bilangan asli $n\le225$ sedemikian sehingga nilai $S(n)$ bernilai ganjil.,OSN_Regional_2026_15,,
+315,OSN,Regional,2026,16,"Dua buah lingkaran yang masing-masing berpusat di $O_1$ dan $O_2$ saling berpotongan di dua titik yaitu $X$ dan $Y$. Sebuah garis singgung persekutuan luar menyinggung lingkaran $O_1$ di titik $A$ dan lingkaran $O_2$ di titik $B$, dengan posisi garis singgung tersebut lebih dekat terhadap titik potong $X$. Perpanjangan dari segmen garis hubung titik potong $XY$ memotong garis singgung persekutuan luar tersebut di titik $P$. Jika diketahui jari-jari lingkaran $O_1$ adalah $4$ satuan, jari-jari lingkaran $O_2$ adalah $8$ satuan, dan jarak antar titik pusat $O_1O_2=5$ satuan, berapakah nilai dari luas segitiga $O_1PO_2$?",OSN_Regional_2026_16,,
+316,OSN,Regional,2026,17,"Diberikan sebuah segitiga $ABC$. Terdapat titik $D$ pada sisi $AB$ sehingga
+\[
+\frac{AD}{DB}=\frac{7}{4},
+\]
+dan sebuah titik $E$ pada sisi $AC$ sehingga
+\[
+\frac{AE}{EC}=\frac{5}{6}.
+\]
+Titik $M$ dipilih sebagai titik tengah dari sisi $BC$, dan $N$ merupakan titik potong antara garis berat $AM$ dengan garis transversal $DE$. Tentukan nilai luas daerah segitiga $ADN$.",OSN_Regional_2026_17,,
+317,OSN,Regional,2026,18,"Terdapat bilangan bulat positif $m$ terkecil yang memenuhi persamaan koefisien binomial
+\[
+16\binom{m}{k}+3\binom{n}{k+1}=48z
+\]
+untuk setiap nilai $m,n,k,z$ bilangan bulat positif. Tentukan nilai terkecil yang mungkin dari $z$.",OSN_Regional_2026_18,,
+318,OSN,Regional,2026,19,"Terdapat sebuah barisan himpunan bilangan rasional yang terdiri dari suku-suku berikut:
+\[
+-\frac1{567},-\frac1{566},-\frac1{565},\ldots,-\frac12,\frac12,\ldots,\frac1{565},\frac1{566},\frac1{567}.
+\]
+Pada setiap langkah permainan, Andi menghapus dua buah bilangan sebarang dari barisan, misalkan $x$ dan $y$, kemudian mengganti kedua bilangan tersebut dengan satu bilangan baru bernilai
+\[
+x+y-xy.
+\]
+Setelah serangkaian langkah dilakukan berulang kali, pada akhirnya hanya akan tersisa tepat satu bilangan tunggal. Jika bilangan terakhir tersebut dapat dinyatakan dalam bentuk pecahan paling sederhana $\frac{a}{b}$ dengan $a$ dan $b$ merupakan bilangan asli yang saling relatif prima, maka tentukan nilai dari $a+b$.",OSN_Regional_2026_19,,
+319,OSN,Regional,2026,20,"Tentukan nilai dari jumlah satu digit tepat di sebelah kiri koma (satuan) dan satu digit tepat di sebelah kanan koma (sepersepuluhan) dari bentuk ekspresi perpangkatan besar berikut:
+\[
+(6+\sqrt{26})^{18}.
+\]",OSN_Regional_2026_20,,

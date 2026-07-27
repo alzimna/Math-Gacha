@@ -1,0 +1,126 @@
+/* ---------- problem screen ---------- */
+.meta-row{
+  display:flex; 
+  gap:var(--sm); 
+  flex-wrap:wrap; 
+  margin-bottom:var(--md);
+}
+.tag{
+  font-size:12px; 
+  font-weight:600; 
+  letter-spacing:0.02em; 
+  color:var(--nav-active-text);
+  background:var(--nav-active-bg);
+  padding:var(--xs) var(--sm); 
+  border-radius:var(--r-pill);
+}
+
+.problem-top-row{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-end;
+  gap:var(--md);
+  flex-wrap:wrap;
+  margin-bottom:var(--md);
+}
+
+.problem-title{
+  font-family:var(--font-primary);
+  font-weight:800;
+  font-size:28px;
+  color:var(--text-primary);
+  margin:var(--xs) 0 0 0;
+}
+
+.problem-canvas{
+    width: 100%;
+    max-width:1100px;
+    min-height: 500px;
+    
+    background: var(--paper-bg);
+    border:1px solid var(--card-border);
+    border-radius: var(--lg);      /* 0.25rem in your config */
+    padding: var(--problem-padding); /* 40px in your config */
+    position: relative;
+    margin-bottom: 3rem;                  /* 48px */
+}
+
+@media (min-width:720px){
+  .problem-canvas, .card{ padding:var(--problem-padding); }
+}
+
+/* Untuk Match Your Answer */
+.action-row{
+  display:flex;
+  gap:var(--sm);
+  justify-content:center;
+  flex-wrap:wrap;
+}
+
+.action-row .btn{ width:auto;
+                  min-width:200px; 
+                  margin-top:0; }
+
+.statement{
+  font-size:18px; 
+  line-height:1.6; 
+  color:var(--card-text-color);
+}
+
+.statement img{     
+    display: block;
+    margin: 16px auto;
+    max-width: 100%;
+    height: auto; }
+
+.warning-banner{
+  display:none;
+  background:var(--error-container);
+  border:1px solid var(--error);
+  color:var(--card-text-color);
+  border-radius:var(--r-base);
+  padding:var(--md);
+  font-weight:600;
+  text-align:center;
+  margin-top:var(--lg);
+}
+.warning-banner.show{ display:block; 
+                      animation:fadein .3s ease; }
+
+.answer-box{
+  display:none;
+  margin-top:var(--x2l);
+  margin-top:var(--md);
+  background:var(--paper-bg);
+  border:1px solid var(--card-border);
+  border-radius:var(--r-base);
+  padding:var(--md);
+  color:var(--card-text-color);
+}
+.answer-box.show{ display:block; 
+                  animation:fadein .3s ease; }
+
+.answer-box .eyebrow{ color:var(--text-secondary); 
+}
+.answer-box.empty{ color:var(--text-secondary); 
+                  font-style:italic; }
+
+/* <!-- Example --> */
+
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    display: inline-block;
+    vertical-align: middle;
+}
+.kontora-anchor {
+    font-weight: 900;
+    letter-spacing: 0.03em;
+}
+.math-tex {
+    font-family: 'Times New Roman', serif;
+    font-style: italic;
+}
+.problem-card {
+    box-shadow: none;
+    transition: all 0.3s ease;
+}
