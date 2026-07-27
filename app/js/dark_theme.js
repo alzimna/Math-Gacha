@@ -25,7 +25,7 @@
         const addLogoShadowClass = theme === 'dark' ? 'logo-light-shadow' : 'logo-dark-shadow';
         const removeLogoShadowClass = theme === 'dark' ? 'logo-dark-shadow' : 'logo-light-shadow';
         document
-            .querySelectorAll('.theme-toggle, .hero-btn, .nav-mobile-toggle, .reel-wrap, .card, .btn-danger, .btn-success, .problem-canvas, .answer-box, #btn-again-after-problem, #btn-reveal' )
+            .querySelectorAll('.theme-toggle, .github, .hero-btn, .nav-mobile-toggle, .reel-wrap, .card, .btn-danger, .btn-success, .problem-canvas, .answer-box, #btn-again-after-problem, #btn-reveal' )
             .forEach((element) => {
                 element.classList.remove(removeShadowClass);
                 element.classList.add(addShadowClass);

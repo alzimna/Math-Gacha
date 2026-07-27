@@ -5,17 +5,24 @@
 
 nav.parent-nav {
   position: fixed;
-  top: 30px;
+  top: var(--theme-toggle-top);
   left: 50%;
   transform: translateX(-50%);
   z-index: 1000;
   width: 23%;
   max-width: var(--nav-width);
-  border-radius: 25px;
-  backdrop-filter: blur(16px) saturate(180%);
-  -webkit-backdrop-filter: blur(16px) saturate(180%);
-  background-color: var(--nav-bg);
-  border: 1px solid var(--nav-border);
+}
+
+nav.parent-toggle {
+  position: fixed;
+  top: var(--theme-toggle-top);
+  left: 100%;
+  transform: translateX(-100%);
+  z-index: 1000;
+
+  display: flex;
+  align-items: center;
+  gap: 15px;
 }
 
 .nav-mobile-toggle {
@@ -200,12 +207,7 @@ ul.nav .animation {
   }
 }
 
-/* Theme toggle button */
-.theme-toggle {
-  position: fixed;
-  top: var(--theme-toggle-top);
-  left: 43%;
-  margin-left: calc((var(--nav-width) / 2) + 12px);
+.theme-toggle, .github{
   width: var(--theme-toggle-width);
   height: var(--theme-toggle-height);
   border: 1px solid var(--toggle-border);
@@ -220,11 +222,11 @@ ul.nav .animation {
   transition: transform 0.25s ease, border-color 0.25s ease;
 }
 
-.theme-toggle:hover {
+.theme-toggle:hover, .github:hover {
   transform: translateY(-2px) scale(1.03);
 }
 
-.theme-toggle:active {
+.theme-toggle:active, .github:active {
   transform: translateY(0) scale(0.98);
 }
 

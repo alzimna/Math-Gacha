@@ -110,10 +110,19 @@ function showtheProblems(){
 }
 
 let reelLength = 0;
-let spin_duration = 0;
+let spin_duration = 0; // in second
+
 function toreelPage(){
   n = pool.length;
-  spin_duration = n >= 200 ? 5 : 2;
+  if (n<=100){
+    spin_duration = 2;
+  }
+  else if (n<=500){
+    spin_duration = (n-100) / 400 + 2;
+  }
+  else {
+    spin_duration = 3;
+  }
 
   showScreen('screen-reel');
   showtheProblems();
@@ -187,7 +196,7 @@ function btnClicked(){
     $('#drawn-id-block').style.visibility = 'hidden';
     $('#timer-setup').style.visibility = 'hidden';
 
-    animate(targetDistance,drawn);
+    animate(targetDistance);
     
     isdrawn = true;
     $('#btn-shuffle-placeholder').style.display = 'none';

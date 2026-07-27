@@ -103,7 +103,7 @@
   letter-spacing:0.02em;
   text-transform:uppercase;
   color:var(--card-text-secondary);
-  margin:0 0 var(--xs) 0;
+  margin:var(--xs) 0 var(--xs) 0;
 }
 
 /* Untuk Test your Luck */
@@ -179,26 +179,6 @@ p.brand {
   border-color : var(--card-border-selected);
   color : var(--card-text-color-selected);
   font-weight:600;
-}
-
-@media (max-width: 650px) {
-  :root {
-    --theme-toggle-top: 34px;
-  }
-}
-
-@media (max-width: 550px) {
-  .theme-toggle {
-    margin-left: calc((var(--nav-width) / 2) + 10px);
-  }
-}
-
-@media (max-width: 450px) {
-  :root {
-    --theme-toggle-width: 40px;
-    --theme-toggle-height: 40px;
-    --theme-toggle-top: 36px;
-  }
 }
 
 .pool-count{
