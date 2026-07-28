@@ -11,6 +11,11 @@ nav.parent-nav {
   z-index: 1000;
   width: 23%;
   max-width: var(--nav-width);
+  border-radius: 25px;
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  background-color: var(--nav-bg);
+  border: 1px solid var(--nav-border);
 }
 
 nav.parent-toggle {

@@ -174,7 +174,7 @@ class Problem_to_CSV:
             fig_name = "_".join([fig_year, fig_competition, fig_stage, str(fig_num)]) + fig_ext
             figures.append(fig_name)
 
-            img_tag = f'<img src="{FIGURE_PATH}{fig_name}" style="max-width:100%; width:400px;">'
+            img_tag = f'<img src="{FIGURE_PATH}{fig_name}" style="display:block; width:400px; max-width:100%; height:auto; margin:20px auto 0;">'
             df.loc[i, "Problem Statement"] = re.sub(
                 r'\\begin\{figure\}.*?\\end\{figure\}',
                 img_tag,
@@ -204,7 +204,7 @@ class Answer_to_CSV:
             print(f"Parsing Answers {key} is succeeded : {len(self.answers_dict[key])}")
 
     def answers_metadata_retriever(self) -> None:
-        competition, stage, year, number, answers,ids = [], [], [], [], [], []
+        competition, stage, year, number, answers = [], [], [], [], []
 
         for key, values in self.answers_dict.items():
             competition_name, stage_name, y = _parse_competition_stage_year(key)
@@ -216,7 +216,6 @@ class Answer_to_CSV:
                 number.append(num)
                 answer_text = self._extract_answer_text(values[num - 1], key, num)
                 answers.append(answer_text)
-                temp = f"{competition_name}_{stage_name}_{y}_{str(num)}"
 
         self.answers_df = pd.DataFrame({
             "Competition": competition,
