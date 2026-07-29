@@ -27,7 +27,7 @@
   --footer-link-hover: #1b1f24;          /* High-contrast hover back to primary dark */
   --footer-divider: rgba(0, 0, 0, 0.08); /* Subtle dark hairline for light BG */
 
-  --accent-primary: #7ecdfc;
+  --accent-primary: #9AD9FF;
   --accent-primary-rgb: 126 205 252;
 
   --btn-secondary-bg: #2a2e35;
@@ -52,7 +52,6 @@
   --project-tech-border: rgb(var(--accent-primary-rgb) / 0.25);
   --project-tech-border-hover: rgb(var(--accent-primary-rgb) / 0.45);
 
-  
   --paper-bg : #ffffff;
   --card-border : rgba(15, 23, 42, 0.25);
   --card-text-color :  #1f2328;
@@ -98,7 +97,7 @@ body[data-theme='light'] {
   --toggle-border:rgba(15, 23, 42, 0.25);
   --toggle-icon: #1f2328;
 
-  --section-muted-bg: #1b1f24;
+  --section-muted-bg: #FFFFFF;
   --section-muted-border: rgba(197, 202, 209, 0.18);
 
   --footer-bg: #181c21;                  /* Deep charcoal-slate for maximum contrast */
@@ -110,3 +109,4 @@ body[data-theme='light'] {
   --footer-divider: rgba(255, 255, 255, 0.1);
   --text-on-accent: #000000;
 }
+

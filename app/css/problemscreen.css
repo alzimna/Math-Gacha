@@ -89,7 +89,6 @@
 
 .answer-box{
   display:none;
-  margin-top:var(--x2l);
   margin-top:var(--md);
   background:var(--paper-bg);
   border:1px solid var(--card-border);
@@ -98,13 +97,19 @@
   color:var(--card-text-color);
 }
 .answer-box.show{ display:block; 
-                  animation:fadein .3s ease; }
+                  animation:fadein .3s ease;
+                  }
 
 .answer-box .eyebrow{ color:var(--text-secondary); 
 }
+
 .answer-box.empty{ color:var(--text-secondary); 
                   font-style:italic; }
 
+.answer-text{
+  margin-top: var(--md);
+  font-weight:bold;
+}
 /* <!-- Example --> */
 
 .material-symbols-outlined {

@@ -90,7 +90,7 @@ To parse your own LaTeX file:
 3. Click **Proceed** to open the gacha page. Your filtered problems will be shown in a column.
 4. Click **Gacha!** to start the spin. Once it stops, your problem is revealed.
 5. Not feeling it? Click **Spin Again** to draw a different one.
-6. Once you've settled on a problem, set your timer, in `mm:ss` format, where `mm` is minutes (0-59) and `ss` is seconds (0-60).
+6. Once you've settled on a problem, set your timer, in `mm:ss` format, where `mm` is minutes (0-59) and `ss` is seconds (0-59).
 7. Click **Proceed** to move to the problem screen. Stop the timer early with the **Stop Timer** button, or let it run out on its own.
 8. From there, jump straight into another problem with **Spin Again**, or head back to the filter screen via the **Practice** link in the navigation bar.
 

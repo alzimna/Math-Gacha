@@ -9,7 +9,7 @@
     --font-primary: 'Montserrat', sans-serif;
 }
 
-.font-mont {
+body {
     font-family: var(--font-primary);
 }
 

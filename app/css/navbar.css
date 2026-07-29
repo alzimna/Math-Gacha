@@ -15,6 +15,7 @@ nav.parent-nav {
   backdrop-filter: blur(16px) saturate(180%);
   -webkit-backdrop-filter: blur(16px) saturate(180%);
   background-color: var(--nav-bg);
+  height: auto; /* border jadi bukan masalah*/
   border: 1px solid var(--nav-border);
 }
 
@@ -81,10 +82,8 @@ ul.nav li.hover:hover a {
 
 ul.nav .animation {
   position: absolute;
-  height: 46px;
-  width: 150px;
+  height: var(--nav-height);
   border-radius: 25px;
-  background-color: var(--nav-active-bg);
   transition: all 0.5s ease;
   z-index: 1;
 }

@@ -13,6 +13,7 @@
   <title>Math-Gacha</title>
 
   <link rel="stylesheet" href="css/styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
 
   <!-- Tulis Latex di HTML -->
   <script>
@@ -36,7 +37,7 @@
   gtag('config', 'G-P46W9GQNQK');
 </script>
 
-<body class="font-mont">
+<body>
   <header class="center-container">
     <nav class="parent-nav">
       <ul class="nav fw-medium">
@@ -70,8 +71,45 @@
   </header>
 
   <main class="main-slide-show">
+    <header>
       <section class="hero" id="home">
-          <div>To be entered</div>
+        <img class ="hero-bg" src="/image/bg-image.png" alt="">
+        <div class="hero-content">
+          <h1 class="hero-title fwbold" > Math-Gacha </h1>
+          <p class="hero-subtitle fw-medium"> Turn your LaTeX problem set into a gacha machine. Stop grinding through contest problems in the same predictable order, let the spin decide what you solve next.</p> 
+          
+          <div class="hero-actions">
+            <a class="hero-btn hero-btn-primary light-shadow" href="./practice.html" onclick="rightDirection()">
+            Start Practicing
+            <span class="material-symbols-outlined">arrow_forward</span>
+            </a>
+          </div>
+        </div>
+      </section>
+    </header>
+
+      <section class="ehero">
+        <div class="ehero-iner">
+        <h1 class="ehero-title fwbold">Why use this Application?</h1>
+        <p class="ehero-text fw-medium"> Normally, competition problems get worked through in a fixed order, year by year, problem by problem, following whatever sequence the contest laid out. Some contests even sort by difficulty, so the ones near the end are the hardest. That's predictable, and predictable gets boring fast. 
+            Math-Gacha takes the same problem set and randomizes it. Spin, get a problem, set a timer, solve it. No fixed order, no knowing what's coming next.
+            It's not just for solo practice, either. My friend and I used to battle over contest problems, whoever solved it first won. Math-Gacha works the same way: spin for the same problem, race the clock, see who gets there first.
+        </p>  
+        </div>    
+      </section>
+      
+      <section class="ohero">
+        <div class="ohero-content">
+          <h1 class="ohero-title">How it works</h1>
+          <ul class="ohero-text">
+            <li><strong>Filter</strong> by competition, stage, or year, or leave it open and pull from the whole set.</li>
+            <li><strong>Spin.</strong> Click Gacha! and watch the reel land on your next problem.</li>
+            <li><strong>Not feeling it?</strong> Spin Again for a different one, no penalty for being picky.</li>
+            <li><strong>Set your timer</strong>, in `mm:ss` format, and click Proceed when you're ready to start the clock.</li>
+            <li><strong>Solve.</strong> Stop the timer early if you finish first, or let it run out on its own.</li>
+            <li><strong>Go again.</strong> Spin Again for another problem straight away, or head back to Practice to change your filters.</li>
+          </ul>   
+        </div>   
       </section>
   </main>
 
